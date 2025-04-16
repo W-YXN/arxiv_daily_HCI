@@ -20,7 +20,7 @@ jobs:
   sync:
     name: Update Daily Arxiv
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
