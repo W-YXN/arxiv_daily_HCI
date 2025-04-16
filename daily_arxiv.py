@@ -62,7 +62,7 @@ def get_daily_code(DateToday,cats):
         # Add a mandatory delay *between* scraping different primary categories (k)
         # This helps even if retries weren't needed for the previous category
         print(f"Waiting mandatory delay after processing category {k}...")
-        time.sleep(45) # Use a reasonable base delay between categories (e.g., 45-60s)
+        time.sleep(30) # Use a reasonable base delay between categories
 
     base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
