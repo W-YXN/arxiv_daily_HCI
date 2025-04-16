@@ -10,6 +10,7 @@ import json
 from datetime import timedelta
 import os
 import pathlib
+import random
 
 
 def get_daily_code(DateToday,cats):
@@ -43,7 +44,7 @@ def get_daily_code(DateToday,cats):
                             output[item["id"]] = item
                 success = True # Mark as success
 
-            except (ConnectionResetError, URLError, RemoteDisconnected, TimeoutError) as e: # Catch specific network errors
+            except (ConnectionResetError, urllib.error.URLError, RemoteDisconnected, socket.timeout, TimeoutError) as e: # Catch specific network errors
                 retries += 1
                 print(f"Warning: Attempt {retries}/{MAX_RETRIES} failed for category {k} on {DateToday}. Error: {e}")
                 if retries >= MAX_RETRIES:
