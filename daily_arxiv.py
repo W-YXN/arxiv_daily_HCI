@@ -130,21 +130,20 @@ def json_to_md(filename):
     # Update main README.md
     with open("README.md", "w") as f:
         # Write header and overview
-        f.write("# Daily ArXiv\n\n")
-        f.write("A curated collection of arXiv papers with open-source implementations, specifically focusing on Signal Processing (eess.SP) ")
-        f.write("and Information Theory (cs.IT) categories. This repository is designed to serve researchers and practitioners in information ")
-        f.write("and communication systems by providing easy access to papers that come with their source code implementations.\n\n")
-        
+        f.write("# Daily ArXiv HCI\n\n") 
+        f.write("A curated collection of arXiv papers with open-source implementations, specifically focusing on Human-Computer Interaction (cs.HC) ")
+        f.write("and related fields like Computer Graphics (cs.GR), Computer Vision (cs.CV), etc. This repository aims to serve researchers and practitioners ")
+        f.write("in HCI by providing easy access to papers that come with their source code implementations.\n\n") # Updated description
         f.write("## Overview\n")
-        f.write("This project automatically tracks and analyzes papers from eess.SP (Electrical Engineering and Systems Science - Signal Processing) ")
-        f.write("and cs.IT (Computer Science - Information Theory) categories on arXiv daily using GitHub Actions. It specifically identifies ")
-        f.write("and catalogs papers that have released their source code, making it easier for researchers in information and communication ")
-        f.write("systems to find implementable research work.\n\n")
-        
+        f.write("This project automatically tracks and analyzes papers from relevant HCI categories ") # Updated description
+        f.write("on arXiv daily using GitHub Actions. It specifically identifies ")
+        f.write("and catalogs papers that have released their source code, making it easier for researchers ")
+        f.write("in HCI and related areas to find implementable research work.\n\n") # Updated description
         f.write("The main features include:\n")
         f.write("- Daily updates of papers with open-source implementations\n")
-        f.write("- Focus on signal processing and information theory research\n")
+        f.write("- Focus on Human-Computer Interaction and related research\n") # Updated description
         f.write("- Automatic tracking and organization\n\n")
+        # --- END ---
         
         # Write latest updates
         f.write("## Latest Updates \n")
@@ -193,8 +192,7 @@ if __name__ == "__main__":
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "eess":["eess.SP"],
-        "cs":["cs.IT"]
+        "cs": ["cs.HC", "cs.GR", "cs.CV", "cs.MM", "cs.AI"]
     }
         data = get_daily_code(day,cats)
         data_all.append(data)
