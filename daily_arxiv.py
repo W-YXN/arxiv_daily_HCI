@@ -1,3 +1,7 @@
+import urllib.error
+from http.client import RemoteDisconnected
+import socket
+
 import arxivscraper
 import datetime
 import time
