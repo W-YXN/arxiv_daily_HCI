@@ -271,7 +271,7 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 7
+    N = 3
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
