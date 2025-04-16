@@ -19,6 +19,10 @@ The main features include:
 |2504.09734|[dynamik: syntactically-driven dynamic font sizing for emphasis of key information](https://arxiv.org/abs/2504.09734)|[Dynamik_experiment](https://github.com/nawta/Dynamik_experiment)|
 |2504.01153|[catch me if you search: when contextual web search results affect the detection of hallucinations](https://arxiv.org/abs/2504.01153)|[CatchMeIfYouSearch](https://github.com/MahjabinNahar/CatchMeIfYouSearch)|
 |2504.07999|[igg: image generation informed by geodesic dynamics in deformation spaces](https://arxiv.org/abs/2504.07999)|[igg](https://github.com/nellie689/igg)|
+|2504.07521|[why we feel: breaking boundaries in emotional reasoning with multimodal large language models](https://arxiv.org/abs/2504.07521)|[eibench](https://github.com/lum1104/eibench)|
+|2504.07870|[open datasets for grid modeling and visualization: an alberta power network case](https://arxiv.org/abs/2504.07870)|[carbondistributionmap](https://github.com/bencheng2/carbondistributionmap)|
+|2504.06677|[setup-invariant augmented reality for teaching by demonstration with surgical robots](https://arxiv.org/abs/2504.06677)|[dv-stear_public](https://github.com/alexandrebanks6/dv-stear_public)|
+|2504.06751|[visualisation of a multidimensional point cloud as a 3d swarm of avatars](https://arxiv.org/abs/2504.06751)|[n-dim-view](https://github.com/iitis/n-dim-view)|
 
 
 ## Archives
