@@ -167,7 +167,7 @@ def ensure_archive_dirs():
     pathlib.Path(archive_base).mkdir(exist_ok=True)
     
     # Create directories for all years from 2021 to current year
-    for year in range(2021, current_year + 1):
+    for year in range(2025, current_year + 1):
         year_dir = os.path.join(archive_base, str(year))
         pathlib.Path(year_dir).mkdir(exist_ok=True)
         
@@ -271,13 +271,13 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 3
+    N = 4
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "cs": ["cs.HC", "cs.GR"]
+        "cs": ["cs.HC", "cs.GR", "cs.MM"]
     }
         data = get_daily_code(day,cats)
         data_all.append(data)
