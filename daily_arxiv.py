@@ -18,6 +18,10 @@ def get_daily_code(DateToday,cats):
     content = dict()
     # content
     output = dict()
+
+    MAX_RETRIES = 3 # Number of retries
+    BASE_RETRY_DELAY = 15 # Base seconds to wait before retry
+    
     for k,v in cats.items():
         scraper = arxivscraper.Scraper(category=k, date_from=from_day,date_until=until_day,filters={'categories':v})
         print(f"Attempting to scrape category {k} with filters {v} for date {DateToday}...")
