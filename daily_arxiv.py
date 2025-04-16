@@ -20,37 +20,113 @@ def get_daily_code(DateToday,cats):
     output = dict()
     for k,v in cats.items():
         scraper = arxivscraper.Scraper(category=k, date_from=from_day,date_until=until_day,filters={'categories':v})
-        tmp = scraper.scrape()
-        print(tmp)
-        if isinstance(tmp,list):
-            for item in tmp:
-                if item["id"] not in output:
-                    output[item["id"]] = item
-        time.sleep(30)
+        print(f"Attempting to scrape category {k} with filters {v} for date {DateToday}...")
+
+        retries = 0
+        success = False
+        while retries < MAX_RETRIES and not success:
+            try:
+                #print(f"Scrape attempt {retries + 1}/{MAX_RETRIES}...") # Optional: more verbose logging
+                tmp = scraper.scrape()
+                print(f"Successfully scraped category {k} for {DateToday}.")
+                if isinstance(tmp, list):
+                    for item in tmp:
+                        if item["id"] not in output:
+                            output[item["id"]] = item
+                success = True # Mark as success
+
+            except (ConnectionResetError, URLError, RemoteDisconnected, TimeoutError) as e: # Catch specific network errors
+                retries += 1
+                print(f"Warning: Attempt {retries}/{MAX_RETRIES} failed for category {k} on {DateToday}. Error: {e}")
+                if retries >= MAX_RETRIES:
+                    print(f"Error: Max retries reached for category {k} on {DateToday}. Skipping this category.")
+                    break # Stop retrying for this category
+                # Exponential backoff with jitter
+                wait_time = BASE_RETRY_DELAY * (2 ** (retries - 1)) + random.uniform(0, 5)
+                print(f"Waiting {wait_time:.2f} seconds before next retry...")
+                time.sleep(wait_time)
+            except Exception as e: # Catch any other unexpected error during scrape
+                 print(f"Error: An unexpected error occurred scraping {k} for {DateToday}: {e}")
+                 # Decide if you want to retry for other errors or just break
+                 break # Breaking here for unexpected errors
+
+        # Add a mandatory delay *between* scraping different primary categories (k)
+        # This helps even if retries weren't needed for the previous category
+        print(f"Waiting mandatory delay after processing category {k}...")
+        time.sleep(45) # Use a reasonable base delay between categories (e.g., 45-60s)
 
     base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
 
-    for k,v in output.items():
-        print(v["id"])
-        _id = v["id"]
-        paper_title = " ".join(v["title"].split())
-        paper_url = v["url"]
-        paper_date = v.get("published", DateToday)
+    papers_to_check = list(output.items()) # Create a list to iterate over safely
+
+    print(f"\nChecking {len(papers_to_check)} papers against PapersWithCode API...")
+
+    for k_id, v_data in papers_to_check:
+        #print(f"Checking paper ID: {k_id}") # Optional: more verbose logging
+        _id = v_data["id"]
+        paper_title = " ".join(v_data["title"].split())
+        paper_url = v_data["url"]
+        paper_date = v_data.get("published", DateToday)
         if isinstance(paper_date, datetime.datetime):
             paper_date = paper_date.strftime("%Y-%m-%d")
-        url = base_url + _id
-        try:
-            r = requests.get(url).json()
-            if "official" in r and r["official"]:
-                cnt += 1
-                repo_url = r["official"]["url"]
-                repo_name = repo_url.split("/")[-1]
 
-                content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
-        except Exception as e:
-            print(f"exception: {e} with id: {_id}")
-    data = {DateToday:content}
+        url = base_url + _id
+        retries_pwc = 0
+        success_pwc = False
+        while retries_pwc < MAX_RETRIES and not success_pwc:
+            try:
+                response = requests.get(url, timeout=20) # Add a timeout to requests
+                response.raise_for_status() # Check for HTTP errors (4xx, 5xx)
+                r = response.json()
+
+                if "official" in r and r["official"] and isinstance(r["official"], dict) and "url" in r["official"]:
+                    cnt += 1
+                    repo_url = r["official"]["url"]
+                    # Basic check to avoid malformed URLs (simple version)
+                    if isinstance(repo_url, str) and repo_url.startswith('http'):
+                        repo_name = repo_url.split("/")[-1] if '/' in repo_url else repo_url
+                        content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                        #print(f" Found code for {_id}: {repo_url}") # Optional logging
+                    else:
+                        print(f"Warning: Malformed repo URL found for {_id}: {repo_url}")
+
+                success_pwc = True # Mark as success
+
+            except requests.exceptions.ConnectionError as e:
+                retries_pwc += 1
+                print(f"Warning: PapersWithCode API connection error for {_id} (Attempt {retries_pwc}/{MAX_RETRIES}): {e}")
+            except requests.exceptions.Timeout as e:
+                 retries_pwc += 1
+                 print(f"Warning: PapersWithCode API timeout for {_id} (Attempt {retries_pwc}/{MAX_RETRIES}): {e}")
+            except requests.exceptions.RequestException as e: # Catch other request errors (like HTTP errors)
+                print(f"Error: PapersWithCode API request failed for {_id}: {e}")
+                if response is not None and 400 <= response.status_code < 500:
+                     print(f"Client error ({response.status_code}), likely paper not found or bad request. Skipping.")
+                     break # Don't retry client errors usually
+                retries_pwc += 1 # Retry server errors or unknown request errors
+                print(f"Retrying attempt {retries_pwc}/{MAX_RETRIES}...")
+
+            except json.JSONDecodeError as e:
+                 print(f"Error: Failed to decode JSON response from PapersWithCode for {_id}: {e}")
+                 # This might indicate an API issue or non-JSON response, usually best to skip
+                 break # Don't retry JSON errors
+            except Exception as e:
+                 print(f"Error: Unexpected error checking PapersWithCode for {_id}: {e}")
+                 break # Don't retry other unexpected errors
+
+            if not success_pwc and retries_pwc < MAX_RETRIES:
+                 wait_time_pwc = BASE_RETRY_DELAY * (2 ** (retries_pwc - 1)) + random.uniform(0, 3)
+                 print(f"Waiting {wait_time_pwc:.2f} seconds before next PapersWithCode API retry...")
+                 time.sleep(wait_time_pwc)
+            elif not success_pwc:
+                 print(f"Error: Max retries reached for PapersWithCode API check for {_id}. Skipping.")
+
+        # Add a small delay *between* PapersWithCode API calls to be nice
+        time.sleep(random.uniform(0.5, 1.5)) # Small random delay
+
+    data = {DateToday: content}
+    print(f"Found {cnt} papers with official code for {DateToday}.")
     return data
 
 def update_daily_json(filename,data_all):
