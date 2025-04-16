@@ -277,7 +277,7 @@ if __name__ == "__main__":
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "cs": ["cs.HC", "cs.GR", "cs.CV", "cs.MM", "cs.AI"]
+        "cs": ["cs.HC", "cs.GR", "cs.CV", "cs.MM"]
     }
         data = get_daily_code(day,cats)
         data_all.append(data)
