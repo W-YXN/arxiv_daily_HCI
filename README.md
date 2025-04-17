@@ -13,6 +13,9 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.05862|[are generative ai agents effective personalized financial advisors?](https://arxiv.org/abs/2504.05862)|[LLMAdvisor_supplementary](https://github.com/TTsamurai/LLMAdvisor_supplementary)|
+|2504.09861|[ethosgpt: mapping human value diversity to advance sustainable development goals (sdgs)](https://arxiv.org/abs/2504.09861)|[EthoGPT-DB](https://github.com/sunshineluyao/EthoGPT-DB)|
+|2504.09975|[octgpt: octree-based multiscale autoregressive models for 3d shape generation](https://arxiv.org/abs/2504.09975)|[octgpt](https://github.com/octree-nn/octgpt)|
 |2504.07210|[mesa: text-driven terrain generation using latent diffusion and global copernicus data](https://arxiv.org/abs/2504.07210)|[MESA](https://github.com/PaulBorneP/MESA)|
 |2504.08256|[rag-vr: leveraging retrieval-augmented generation for 3d question answering in vr environments](https://arxiv.org/abs/2504.08256)|[RAG-VR](https://github.com/sding11/RAG-VR)|
 |2504.09352|[explorer: robust collection of interactable gui elements](https://arxiv.org/abs/2504.09352)|[Explorer](https://github.com/varnelis/Explorer)|
@@ -21,8 +24,6 @@ The main features include:
 |2504.07999|[igg: image generation informed by geodesic dynamics in deformation spaces](https://arxiv.org/abs/2504.07999)|[igg](https://github.com/nellie689/igg)|
 |2504.07521|[why we feel: breaking boundaries in emotional reasoning with multimodal large language models](https://arxiv.org/abs/2504.07521)|[eibench](https://github.com/lum1104/eibench)|
 |2504.07870|[open datasets for grid modeling and visualization: an alberta power network case](https://arxiv.org/abs/2504.07870)|[carbondistributionmap](https://github.com/bencheng2/carbondistributionmap)|
-|2504.06677|[setup-invariant augmented reality for teaching by demonstration with surgical robots](https://arxiv.org/abs/2504.06677)|[dv-stear_public](https://github.com/alexandrebanks6/dv-stear_public)|
-|2504.06751|[visualisation of a multidimensional point cloud as a 3d swarm of avatars](https://arxiv.org/abs/2504.06751)|[n-dim-view](https://github.com/iitis/n-dim-view)|
 
 
 ## Archives
