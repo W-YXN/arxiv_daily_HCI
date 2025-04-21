@@ -15,11 +15,13 @@ The main features include:
 |---|---|---|
 |2504.07521|[why we feel: breaking boundaries in emotional reasoning with multimodal large language models](https://arxiv.org/abs/2504.07521)|[eibench](https://github.com/lum1104/eibench)|
 |2504.12451|[one model to rig them all: diverse skeleton rigging with unirig](https://arxiv.org/abs/2504.12451)|[UniRig](https://github.com/VAST-AI-Research/UniRig)|
+|2504.12452|[planglow: personalized study planning with an explainable and controllable llm-driven system](https://arxiv.org/abs/2504.12452)|[PlanGlow](https://github.com/dreamlab-24/PlanGlow)|
+|2504.12492|[mobileposer: real-time full-body pose estimation and 3d human translation from imus in mobile consumer devices](https://arxiv.org/abs/2504.12492)|[MobilePoser](https://github.com/SPICExLAB/MobilePoser)|
 |2504.12809|[saliency-aware diffusion reconstruction for effective invisible watermark removal](https://arxiv.org/abs/2504.12809)|[sadre](https://github.com/inzamamuldu/sadre)|
 |2504.12900|[fashiondpo:fine-tune fashion outfit generation model using direct preference optimization](https://arxiv.org/abs/2504.12900)|[fashiondpo](https://github.com/yzcreator/fashiondpo)|
 |2504.12977|[a phenomenological approach to analyzing user queries in it systems using heidegger's fundamental ontology](https://arxiv.org/abs/2504.12977)|[15241370](https://zenodo.org/record/15241370)|
+|2504.13095|[should we tailor the talk? understanding the impact of conversational styles on preference elicitation in conversational recommender systems](https://arxiv.org/abs/2504.13095)|[umap2025-convstyles](https://github.com/iai-group/umap2025-convstyles)|
 |2504.11491|[attention ghostunet++: enhanced segmentation of adipose tissue and liver in ct images](https://arxiv.org/abs/2504.11491)|[attention-ghostunetplusplus](https://github.com/mansoorhayat777/attention-ghostunetplusplus)|
-|2504.11936|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
 |2504.05862|[are generative ai agents effective personalized financial advisors?](https://arxiv.org/abs/2504.05862)|[LLMAdvisor_supplementary](https://github.com/TTsamurai/LLMAdvisor_supplementary)|
 |2504.09861|[ethosgpt: mapping human value diversity to advance sustainable development goals (sdgs)](https://arxiv.org/abs/2504.09861)|[EthoGPT-DB](https://github.com/sunshineluyao/EthoGPT-DB)|
 |2504.09975|[octgpt: octree-based multiscale autoregressive models for 3d shape generation](https://arxiv.org/abs/2504.09975)|[octgpt](https://github.com/octree-nn/octgpt)|
@@ -43,8 +45,6 @@ The main features include:
 |2504.10134|[let's talk about it: making scientific computational reproducibility easy](https://arxiv.org/abs/2504.10134)|[adsketch](https://github.com/opspai/adsketch)|
 |2504.10258|[xy-cut++: advanced layout ordering via hierarchical mask mechanism on a novel benchmark](https://arxiv.org/abs/2504.10258)|[PaddleXrc](https://github.com/liushuai35/PaddleXrc)|
 |2504.10443|[multimodal long video modeling based on temporal dynamic context](https://arxiv.org/abs/2504.10443)|[tdc-video](https://github.com/hoar012/tdc-video)|
-|2504.01153|[catch me if you search: when contextual web search results affect the detection of hallucinations](https://arxiv.org/abs/2504.01153)|[CatchMeIfYouSearch](https://github.com/MahjabinNahar/CatchMeIfYouSearch)|
-|2504.07999|[igg: image generation informed by geodesic dynamics in deformation spaces](https://arxiv.org/abs/2504.07999)|[igg](https://github.com/nellie689/igg)|
 
 
 ## Archives
