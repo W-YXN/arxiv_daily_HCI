@@ -13,6 +13,9 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.09697|[spice: a synergistic, precise, iterative, and customizable image editing workflow](https://arxiv.org/abs/2504.09697)|[spice](https://github.com/kenantang/spice)|
+|2504.09865|[labeling messages as ai-generated does not reduce their persuasive effects](https://arxiv.org/abs/2504.09865)|[ai-authorship-persuasion](https://github.com/i-gallegos/ai-authorship-persuasion)|
+|2504.12977|[a phenomenological approach to analyzing user queries in it systems using heidegger's fundamental ontology](https://arxiv.org/abs/2504.12977)|[15241370](https://zenodo.org/record/15241370)|
 |2504.09689|[emoagent: assessing and safeguarding human-ai interaction for mental health safety](https://arxiv.org/abs/2504.09689)|[emoagent](https://github.com/1akaman/emoagent)|
 |2504.13095|[should we tailor the talk? understanding the impact of conversational styles on preference elicitation in conversational recommender systems](https://arxiv.org/abs/2504.13095)|[umap2025-convstyles](https://github.com/iai-group/umap2025-convstyles)|
 |2504.14603|[ufo2: the desktop agentos](https://arxiv.org/abs/2504.14603)|[UFO](https://github.com/microsoft/UFO)|
@@ -25,7 +28,6 @@ The main features include:
 |2504.12492|[mobileposer: real-time full-body pose estimation and 3d human translation from imus in mobile consumer devices](https://arxiv.org/abs/2504.12492)|[MobilePoser](https://github.com/SPICExLAB/MobilePoser)|
 |2504.12809|[saliency-aware diffusion reconstruction for effective invisible watermark removal](https://arxiv.org/abs/2504.12809)|[sadre](https://github.com/inzamamuldu/sadre)|
 |2504.12900|[fashiondpo:fine-tune fashion outfit generation model using direct preference optimization](https://arxiv.org/abs/2504.12900)|[fashiondpo](https://github.com/yzcreator/fashiondpo)|
-|2504.11491|[attention ghostunet++: enhanced segmentation of adipose tissue and liver in ct images](https://arxiv.org/abs/2504.11491)|[attention-ghostunetplusplus](https://github.com/mansoorhayat777/attention-ghostunetplusplus)|
 
 
 ## Archives
