@@ -22,12 +22,6 @@ The main features include:
 |2504.15101|[neugaze: reshaping the future bci](https://arxiv.org/abs/2504.15101)|[neugaze](https://github.com/neuspeech/neugaze)|
 |2504.15133|[easyedit2: an easy-to-use steering framework for editing large language models](https://arxiv.org/abs/2504.15133)|[easyedit](https://github.com/zjunlp/easyedit)|
 |2504.11936|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
-|2504.07521|[why we feel: breaking boundaries in emotional reasoning with multimodal large language models](https://arxiv.org/abs/2504.07521)|[eibench](https://github.com/lum1104/eibench)|
-|2504.12451|[one model to rig them all: diverse skeleton rigging with unirig](https://arxiv.org/abs/2504.12451)|[UniRig](https://github.com/VAST-AI-Research/UniRig)|
-|2504.12452|[planglow: personalized study planning with an explainable and controllable llm-driven system](https://arxiv.org/abs/2504.12452)|[PlanGlow](https://github.com/dreamlab-24/PlanGlow)|
-|2504.12492|[mobileposer: real-time full-body pose estimation and 3d human translation from imus in mobile consumer devices](https://arxiv.org/abs/2504.12492)|[MobilePoser](https://github.com/SPICExLAB/MobilePoser)|
-|2504.12809|[saliency-aware diffusion reconstruction for effective invisible watermark removal](https://arxiv.org/abs/2504.12809)|[sadre](https://github.com/inzamamuldu/sadre)|
-|2504.12900|[fashiondpo:fine-tune fashion outfit generation model using direct preference optimization](https://arxiv.org/abs/2504.12900)|[fashiondpo](https://github.com/yzcreator/fashiondpo)|
 
 
 ## Archives
