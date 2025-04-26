@@ -13,6 +13,8 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.17253|[dive: inverting conditional diffusion models for discriminative tasks](https://arxiv.org/abs/2504.17253)|[DIVE](https://github.com/LiYinqi/DIVE)|
+|2504.16323|[media content atlas: a pipeline to explore and investigate multidimensional media space using multimodal llms](https://arxiv.org/abs/2504.16323)|[mediacontentatlas](https://github.com/mediacontentatlas/mediacontentatlas)|
 |2504.09697|[spice: a synergistic, precise, iterative, and customizable image editing workflow](https://arxiv.org/abs/2504.09697)|[spice](https://github.com/kenantang/spice)|
 |2504.09865|[labeling messages as ai-generated does not reduce their persuasive effects](https://arxiv.org/abs/2504.09865)|[ai-authorship-persuasion](https://github.com/i-gallegos/ai-authorship-persuasion)|
 |2504.12977|[a phenomenological approach to analyzing user queries in it systems using heidegger's fundamental ontology](https://arxiv.org/abs/2504.12977)|[15241370](https://zenodo.org/record/15241370)|
