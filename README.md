@@ -13,15 +13,12 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.14603|[ufo2: the desktop agentos](https://arxiv.org/abs/2504.14603)|[UFO](https://github.com/microsoft/UFO)|
 |2504.17253|[dive: inverting conditional diffusion models for discriminative tasks](https://arxiv.org/abs/2504.17253)|[DIVE](https://github.com/LiYinqi/DIVE)|
 |2504.16323|[media content atlas: a pipeline to explore and investigate multidimensional media space using multimodal llms](https://arxiv.org/abs/2504.16323)|[mediacontentatlas](https://github.com/mediacontentatlas/mediacontentatlas)|
 |2504.09697|[spice: a synergistic, precise, iterative, and customizable image editing workflow](https://arxiv.org/abs/2504.09697)|[spice](https://github.com/kenantang/spice)|
 |2504.09865|[labeling messages as ai-generated does not reduce their persuasive effects](https://arxiv.org/abs/2504.09865)|[ai-authorship-persuasion](https://github.com/i-gallegos/ai-authorship-persuasion)|
 |2504.12977|[a phenomenological approach to analyzing user queries in it systems using heidegger's fundamental ontology](https://arxiv.org/abs/2504.12977)|[15241370](https://zenodo.org/record/15241370)|
-|2504.09689|[emoagent: assessing and safeguarding human-ai interaction for mental health safety](https://arxiv.org/abs/2504.09689)|[emoagent](https://github.com/1akaman/emoagent)|
-|2504.13095|[should we tailor the talk? understanding the impact of conversational styles on preference elicitation in conversational recommender systems](https://arxiv.org/abs/2504.13095)|[umap2025-convstyles](https://github.com/iai-group/umap2025-convstyles)|
-|2504.15101|[neugaze: reshaping the future bci](https://arxiv.org/abs/2504.15101)|[neugaze](https://github.com/neuspeech/neugaze)|
-|2504.15133|[easyedit2: an easy-to-use steering framework for editing large language models](https://arxiv.org/abs/2504.15133)|[easyedit](https://github.com/zjunlp/easyedit)|
 
 
 ## Archives
