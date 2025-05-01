@@ -13,10 +13,6 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2504.12909|[real-time high-fidelity gaussian human avatars with position-based interpolation of spatially distributed mlps](https://arxiv.org/abs/2504.12909)|[mmlphuman](https://github.com/1231234zhan/mmlphuman)|
-|2504.14603|[ufo2: the desktop agentos](https://arxiv.org/abs/2504.14603)|[UFO](https://github.com/microsoft/UFO)|
-|2504.17253|[dive: inverting conditional diffusion models for discriminative tasks](https://arxiv.org/abs/2504.17253)|[DIVE](https://github.com/LiYinqi/DIVE)|
-|2504.16323|[media content atlas: a pipeline to explore and investigate multidimensional media space using multimodal llms](https://arxiv.org/abs/2504.16323)|[mediacontentatlas](https://github.com/mediacontentatlas/mediacontentatlas)|
 
 
 ## Archives
