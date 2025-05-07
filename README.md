@@ -13,10 +13,46 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.00630|[vision mamba in remote sensing: a comprehensive survey of techniques, applications and outlook](https://arxiv.org/abs/2505.00630)|[awesome-mamba-in-remote-sensing](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)|
+|2505.01456|[unlearning sensitive information in multimodal llms: benchmark and attack-defense evaluation](https://arxiv.org/abs/2505.01456)|[unlok-vqa](https://github.com/vaidehi99/unlok-vqa)|
+|2505.01476|[costfilter-ad: enhancing anomaly detection through matching cost filtering](https://arxiv.org/abs/2505.01476)|[costfilter-ad](https://github.com/zhe-sapi/costfilter-ad)|
+|2505.01481|[videohallu: evaluating and mitigating multi-modal hallucinations for synthetic videos](https://arxiv.org/abs/2505.01481)|[videohallu](https://github.com/zli12321/videohallu)|
+|2505.01548|[rethinking rgb-event semantic segmentation with a novel bidirectional motion-enhanced event representation](https://arxiv.org/abs/2505.01548)|[BRENet](https://github.com/zyaocoder/BRENet)|
+|2505.01583|[tempura: temporal event masked prediction and understanding for reasoning in action](https://arxiv.org/abs/2505.01583)|[tempura](https://github.com/andy-cheng/tempura)|
+|2505.01644|[a dual-task synergy-driven generalization framework for pancreatic cancer segmentation in ct scans](https://arxiv.org/abs/2505.01644)|[dual-task-seg](https://github.com/sjtubme-qianlab/dual-task-seg)|
+|2505.01699|[component-based fairness in face attribute classification with bayesian network-informed meta learning](https://arxiv.org/abs/2505.01699)|[bnmr-faircompface](https://github.com/yliuaa/bnmr-faircompface)|
+|2505.01755|[lensnet: an end-to-end learning framework for empirical point spread function modeling and lensless imaging reconstruction](https://arxiv.org/abs/2505.01755)|[Lensnet](https://github.com/baijiesong/Lensnet)|
+|2505.01854|[accelerating volumetric medical image annotation via short-long memory sam 2](https://arxiv.org/abs/2505.01854)|[slm-sam2](https://github.com/mazurowski-lab/slm-sam2)|
+|2505.01938|[hybridgs: high-efficiency gaussian splatting data compression using dual-channel sparse representation and point cloud encoder](https://arxiv.org/abs/2505.01938)|[hybridgs](https://github.com/qi-yangsjtu/hybridgs)|
+|2505.02005|[learning heterogeneous mixture of scene experts for large-scale neural radiance fields](https://arxiv.org/abs/2505.02005)|[Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)|
+|2505.02075|[benchmarking feature upsampling methods for vision foundation models using interactive segmentation](https://arxiv.org/abs/2505.02075)|[isegprobe](https://github.com/havrylovv/isegprobe)|
+|2505.02179|[prodisc-vad: an efficient system for weakly-supervised anomaly detection in video surveillance applications](https://arxiv.org/abs/2505.02179)|[ProDisc-VAD](https://github.com/modadundun/ProDisc-VAD)|
+|2505.02182|[robust ai-generated face detection with imbalanced data](https://arxiv.org/abs/2505.02182)|[sp_cup](https://github.com/purdue-m2/sp_cup)|
+|2505.02331|[vaemo: efficient representation learning for visual-audio emotion with knowledge injection](https://arxiv.org/abs/2505.02331)|[VAEmo](https://github.com/MSA-LMC/VAEmo)|
+|2505.02350|[sparse ellipsoidal radial basis function network for point cloud surface representation](https://arxiv.org/abs/2505.02350)|[se-rbfnet](https://github.com/lianbobo/se-rbfnet)|
+|2505.02370|[superedit: rectifying and facilitating supervision for instruction-based image editing](https://arxiv.org/abs/2505.02370)|[superedit](https://github.com/bytedance/superedit)|
+|2505.02393|[uncertainty-weighted image-event multimodal fusion for video anomaly detection](https://arxiv.org/abs/2505.02393)|[ief-vad](https://github.com/eavnjeong/ief-vad)|
+|2505.02471|[ming-lite-uni: advancements in unified architecture for natural multimodal interaction](https://arxiv.org/abs/2505.02471)|[ming](https://github.com/inclusionai/ming)|
+|2505.02481|[finger pose estimation for under-screen fingerprint sensor](https://arxiv.org/abs/2505.02481)|[draco](https://github.com/xiongjunguan/draco)|
+|2505.02705|[multi-view learning with context-guided receptance for image denoising](https://arxiv.org/abs/2505.02705)|[crwkv](https://github.com/seeker98/crwkv)|
+|2505.02753|[advancing generalizable tumor segmentation with anomaly-aware open-vocabulary attention maps and frozen foundation diffusion models](https://arxiv.org/abs/2505.02753)|[diffugts](https://github.com/yankai96/diffugts)|
+|2505.02780|[beyond the monitor: mixed reality visualization and ai for enhanced digital pathology workflow](https://arxiv.org/abs/2505.02780)|[path_vis](https://github.com/jaiprakash1824/path_vis)|
+|2505.02823|[musar: exploring multi-subject customization from single-subject dataset via attention routing](https://arxiv.org/abs/2505.02823)|[musar](https://github.com/guozinan126/musar)|
+|2505.02835|[r1-reward: training multimodal reward model through stable reinforcement learning](https://arxiv.org/abs/2505.02835)|[r1_reward](https://github.com/yfzhang114/r1_reward)|
 |2505.00056|[clustering internet memes through template matching and multi-dimensional similarity](https://arxiv.org/abs/2505.00056)|[meme-clustering](https://github.com/tygobl/meme-clustering)|
+|2505.00568|[multimodal masked autoencoder pre-training for 3d mri-based brain tumor analysis with missing modalities](https://arxiv.org/abs/2505.00568)|[bm-mae](https://github.com/lucas-rbnt/bm-mae)|
+|2505.00772|[person detection and re-identification in open-world settings of retail stores and public spaces](https://arxiv.org/abs/2505.00772)|[personReID](https://github.com/brkljac/personReID)|
+|2505.00866|[are minimal radial distortion solvers really necessary for relative pose estimation?](https://arxiv.org/abs/2505.00866)|[rdnet](https://github.com/kocurvik/rdnet)|
 |2505.00938|[cdformer: cross-domain few-shot object detection transformer against feature confusion](https://arxiv.org/abs/2505.00938)|[CDFormer_code](https://github.com/LONGXUANX/CDFormer_code)|
+|2505.01172|[freepca: integrating consistency information across long-short frames in training-free long video generation via principal component analysis](https://arxiv.org/abs/2505.01172)|[freepca](https://github.com/josephtitan/freepca)|
+|2505.01224|[rd-uie: relation-driven state space modeling for underwater image enhancement](https://arxiv.org/abs/2505.01224)|[rd-uie](https://github.com/kkoucy/rd-uie)|
+|2505.01225|[core-set selection for data-efficient land cover segmentation](https://arxiv.org/abs/2505.01225)|[data-centric-rs-classification](https://github.com/keillernogueira/data-centric-rs-classification)|
+|2505.01257|[cameltrack: context-aware multi-cue exploitation for online multi-object tracking](https://arxiv.org/abs/2505.01257)|[CAMELTrack](https://github.com/TrackingLaboratory/CAMELTrack)|
 |2505.00312|[aware-net: adaptive weighted averaging for robust ensemble network in deepfake detection](https://arxiv.org/abs/2505.00312)|[AWARE-NET](https://github.com/recluzegeek/AWARE-NET)|
 |2505.00502|[towards scalable human-aligned benchmark for text-guided image editing](https://arxiv.org/abs/2505.00502)|[HATIE](https://github.com/SuhoRyu/HATIE)|
+|2505.00681|[minerva: evaluating complex video reasoning](https://arxiv.org/abs/2505.00681)|[neptune](https://github.com/google-deepmind/neptune)|
+|2505.00684|[visual test-time scaling for gui agent grounding](https://arxiv.org/abs/2505.00684)|[regionfocus](https://github.com/tiangeluo/regionfocus)|
+|2505.00703|[t2i-r1: reinforcing image generation with collaborative semantic-level and token-level cot](https://arxiv.org/abs/2505.00703)|[t2i-r1](https://github.com/caraj7/t2i-r1)|
 
 
 ## Archives
