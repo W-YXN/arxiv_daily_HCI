@@ -13,6 +13,29 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.01884|[adversarial robustness of deep learning models for inland water body segmentation from sar images](https://arxiv.org/abs/2505.01884)|[iwseg-sar-poison](https://github.com/gvcl/iwseg-sar-poison)|
+|2505.02048|[regression is all you need for medical image translation](https://arxiv.org/abs/2505.02048)|[yoda](https://github.com/deep-mi/yoda)|
+|2505.02064|[rtv-bench: benchmarking mllm continuous perception, understanding and reasoning through real-time video](https://arxiv.org/abs/2505.02064)|[rtv-bench](https://github.com/ljungang/rtv-bench)|
+|2505.02704|[vgld: visually-guided linguistic disambiguation for monocular depth scale recovery](https://arxiv.org/abs/2505.02704)|[vgld](https://github.com/pakinwu/vgld)|
+|2505.03007|[ntire 2025 challenge on ugc video enhancement: methods and results](https://arxiv.org/abs/2505.03007)|[ntire25_ugc_video_enhancement](https://github.com/msu-video-group/ntire25_ugc_video_enhancement)|
+|2505.03046|[sim2real transfer for vision-based grasp verification](https://arxiv.org/abs/2505.03046)|[hsr-graspsynth](https://github.com/pauamargant/hsr-graspsynth)|
+|2505.03114|[path and bone-contour regularized unpaired mri-to-ct translation](https://arxiv.org/abs/2505.03114)|[pabot](https://github.com/kennysyp/pabot)|
+|2505.03153|[robust fairness vision-language learning for medical image analysis](https://arxiv.org/abs/2505.03153)|[robust_fairness_for_medical_image](https://github.com/purdue-m2/robust_fairness_for_medical_image)|
+|2505.03242|[seeing the abstract: translating the abstract language for vision language models](https://arxiv.org/abs/2505.03242)|[fashionact](https://github.com/davidetalon/fashionact)|
+|2505.03299|[towards efficient benchmarking of foundation models in remote sensing: a capabilities encoding approach](https://arxiv.org/abs/2505.03299)|[capabilities-encoding](https://github.com/pierreadorni/capabilities-encoding)|
+|2505.03319|[sd-vsum: a method and dataset for script-driven video summarization](https://arxiv.org/abs/2505.03319)|[sd-vsum](https://github.com/idt-iti/sd-vsum)|
+|2505.03401|[ddatr: dynamic difference-aware temporal residual network for longitudinal radiology report generation](https://arxiv.org/abs/2505.03401)|[ddatr](https://github.com/xmed-lab/ddatr)|
+|2505.03422|[liftfeat: 3d geometry-aware local feature matching](https://arxiv.org/abs/2505.03422)|[liftfeat](https://github.com/lyp-deeplearning/liftfeat)|
+|2505.03427|[medarabiq: benchmarking large language models on arabic medical tasks](https://arxiv.org/abs/2505.03427)|[medarabiq](https://github.com/nyuad-cai/medarabiq)|
+|2505.03431|[a fusion-guided inception network for hyperspectral image super-resolution](https://arxiv.org/abs/2505.03431)|[fusion](https://github.com/usman1021/fusion)|
+|2505.03470|[blending 3d geometry and machine learning for multi-view stereopsis](https://arxiv.org/abs/2505.03470)|[GC-MVSNet-PlusPlus](https://github.com/vkvats/GC-MVSNet-PlusPlus)|
+|2505.03494|[upmad-net: a brain tumor segmentation network with uncertainty guidance and adaptive multimodal feature fusion](https://arxiv.org/abs/2505.03494)|[upmad_net_brainseg](https://github.com/chenzhao2023/upmad_net_brainseg)|
+|2505.03507|[modality-guided dynamic graph fusion and temporal diffusion for self-supervised rgb-t tracking](https://arxiv.org/abs/2505.03507)|[gdstrack](https://github.com/lishenglana/gdstrack)|
+|2505.03539|[panoramic out-of-distribution segmentation](https://arxiv.org/abs/2505.03539)|[panoos](https://github.com/mengfeid/panoos)|
+|2505.03581|[dygenc: encoding a sequence of textual scene graphs to reason and answer questions in dynamic scenes](https://arxiv.org/abs/2505.03581)|[dygenc](https://github.com/linukc/dygenc)|
+|2505.03597|[fixed-length dense fingerprint representation](https://arxiv.org/abs/2505.03597)|[flare](https://github.com/yu-yy/flare)|
+|2505.03623|[bounding box-guided diffusion for synthesizing industrial images and segmentation map](https://arxiv.org/abs/2505.03623)|[diffusion_labeling](https://github.com/covisionlab/diffusion_labeling)|
+|2505.03692|[matching distance and geometric distribution aided learning multiview point cloud registration](https://arxiv.org/abs/2505.03692)|[mdgd](https://github.com/shi-qi-li/mdgd)|
 |2505.00630|[vision mamba in remote sensing: a comprehensive survey of techniques, applications and outlook](https://arxiv.org/abs/2505.00630)|[awesome-mamba-in-remote-sensing](https://github.com/baobao0926/awesome-mamba-in-remote-sensing)|
 |2505.01456|[unlearning sensitive information in multimodal llms: benchmark and attack-defense evaluation](https://arxiv.org/abs/2505.01456)|[unlok-vqa](https://github.com/vaidehi99/unlok-vqa)|
 |2505.01476|[costfilter-ad: enhancing anomaly detection through matching cost filtering](https://arxiv.org/abs/2505.01476)|[costfilter-ad](https://github.com/zhe-sapi/costfilter-ad)|
@@ -32,8 +55,8 @@ The main features include:
 |2505.02350|[sparse ellipsoidal radial basis function network for point cloud surface representation](https://arxiv.org/abs/2505.02350)|[se-rbfnet](https://github.com/lianbobo/se-rbfnet)|
 |2505.02370|[superedit: rectifying and facilitating supervision for instruction-based image editing](https://arxiv.org/abs/2505.02370)|[superedit](https://github.com/bytedance/superedit)|
 |2505.02393|[uncertainty-weighted image-event multimodal fusion for video anomaly detection](https://arxiv.org/abs/2505.02393)|[ief-vad](https://github.com/eavnjeong/ief-vad)|
-|2505.02471|[ming-lite-uni: advancements in unified architecture for natural multimodal interaction](https://arxiv.org/abs/2505.02471)|[ming](https://github.com/inclusionai/ming)|
 |2505.02481|[finger pose estimation for under-screen fingerprint sensor](https://arxiv.org/abs/2505.02481)|[draco](https://github.com/xiongjunguan/draco)|
+|2505.02539|[marker-based extrinsic calibration method for accurate multi-camera 3d reconstruction](https://arxiv.org/abs/2505.02539)|[CalibMarker](https://github.com/Tech4DLab/CalibMarker)|
 |2505.02705|[multi-view learning with context-guided receptance for image denoising](https://arxiv.org/abs/2505.02705)|[crwkv](https://github.com/seeker98/crwkv)|
 |2505.02753|[advancing generalizable tumor segmentation with anomaly-aware open-vocabulary attention maps and frozen foundation diffusion models](https://arxiv.org/abs/2505.02753)|[diffugts](https://github.com/yankai96/diffugts)|
 |2505.02780|[beyond the monitor: mixed reality visualization and ai for enhanced digital pathology workflow](https://arxiv.org/abs/2505.02780)|[path_vis](https://github.com/jaiprakash1824/path_vis)|
