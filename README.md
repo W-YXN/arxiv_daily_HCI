@@ -27,7 +27,6 @@ The main features include:
 |2505.05091|[dispbench: benchmarking disparity estimation to synthetic corruptions](https://arxiv.org/abs/2505.05091)|[benchmarking_robustness](https://github.com/shashankskagnihotri/benchmarking_robustness)|
 |2505.05309|[augmented deep contexts for spatially embedded video coding](https://arxiv.org/abs/2505.05309)|[sevc](https://github.com/esakak/sevc)|
 |2505.05343|[hearing and seeing through clip: a framework for self-supervised sound source localization](https://arxiv.org/abs/2505.05343)|[ACL-SSL](https://github.com/swimmiing/ACL-SSL)|
-|2505.05375|[threshold modulation for online test-time adaptation of spiking neural networks](https://arxiv.org/abs/2505.05375)|[tm-otta-snn](https://github.com/nneurotransmitterr/tm-otta-snn)|
 |2505.05469|[generating physically stable and buildable lego designs from text](https://arxiv.org/abs/2505.05469)|[LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|
 |2505.05470|[flow-grpo: training flow matching models via online rl](https://arxiv.org/abs/2505.05470)|[flow_grpo](https://github.com/yifan123/flow_grpo)|
 |2505.05474|[3d scene generation: a survey](https://arxiv.org/abs/2505.05474)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|
@@ -104,7 +103,6 @@ The main features include:
 |2505.02385|[an arbitrary-modal fusion network for volumetric cranial nerves tract segmentation](https://arxiv.org/abs/2505.02385)|[cntseg](https://github.com/ipis-xielei/cntseg)|
 |2505.02414|[quadrupedal spine control strategies: exploring correlations between system dynamic responses and human perspectives](https://arxiv.org/abs/2505.02414)|[ester](https://github.com/nickick-icrs/ester)|
 |2505.02481|[finger pose estimation for under-screen fingerprint sensor](https://arxiv.org/abs/2505.02481)|[draco](https://github.com/xiongjunguan/draco)|
-|2505.02539|[marker-based extrinsic calibration method for accurate multi-camera 3d reconstruction](https://arxiv.org/abs/2505.02539)|[CalibMarker](https://github.com/Tech4DLab/CalibMarker)|
 |2505.02654|[sim2real in endoscopy segmentation with a novel structure aware image translation](https://arxiv.org/abs/2505.02654)|[sim2real-endoscopysegmentation](https://github.com/ropertuz/sim2real-endoscopysegmentation)|
 |2505.02705|[multi-view learning with context-guided receptance for image denoising](https://arxiv.org/abs/2505.02705)|[crwkv](https://github.com/seeker98/crwkv)|
 |2505.02746|[using knowledge graphs to harvest datasets for efficient clip model training](https://arxiv.org/abs/2505.02746)|[entitynet](https://github.com/lmb-freiburg/entitynet)|
@@ -112,18 +110,6 @@ The main features include:
 |2505.02780|[beyond the monitor: mixed reality visualization and ai for enhanced digital pathology workflow](https://arxiv.org/abs/2505.02780)|[path_vis](https://github.com/jaiprakash1824/path_vis)|
 |2505.02823|[musar: exploring multi-subject customization from single-subject dataset via attention routing](https://arxiv.org/abs/2505.02823)|[musar](https://github.com/guozinan126/musar)|
 |2505.02824|[towards dataset copyright evasion attack against personalized text-to-image diffusion models](https://arxiv.org/abs/2505.02824)|[ceat2i](https://github.com/csyufei/ceat2i)|
-|2505.02835|[r1-reward: training multimodal reward model through stable reinforcement learning](https://arxiv.org/abs/2505.02835)|[r1_reward](https://github.com/yfzhang114/r1_reward)|
-|2505.00056|[clustering internet memes through template matching and multi-dimensional similarity](https://arxiv.org/abs/2505.00056)|[meme-clustering](https://github.com/tygobl/meme-clustering)|
-|2505.00568|[multimodal masked autoencoder pre-training for 3d mri-based brain tumor analysis with missing modalities](https://arxiv.org/abs/2505.00568)|[bm-mae](https://github.com/lucas-rbnt/bm-mae)|
-|2505.00740|[fast2comm:collaborative perception combined with prior knowledge](https://arxiv.org/abs/2505.00740)|[fast2comm](https://github.com/zhangzhengbin-tj/fast2comm)|
-|2505.00772|[person detection and re-identification in open-world settings of retail stores and public spaces](https://arxiv.org/abs/2505.00772)|[personReID](https://github.com/brkljac/personReID)|
-|2505.00866|[are minimal radial distortion solvers really necessary for relative pose estimation?](https://arxiv.org/abs/2505.00866)|[rdnet](https://github.com/kocurvik/rdnet)|
-|2505.00938|[cdformer: cross-domain few-shot object detection transformer against feature confusion](https://arxiv.org/abs/2505.00938)|[CDFormer_code](https://github.com/LONGXUANX/CDFormer_code)|
-|2505.01172|[freepca: integrating consistency information across long-short frames in training-free long video generation via principal component analysis](https://arxiv.org/abs/2505.01172)|[freepca](https://github.com/josephtitan/freepca)|
-|2505.01224|[rd-uie: relation-driven state space modeling for underwater image enhancement](https://arxiv.org/abs/2505.01224)|[rd-uie](https://github.com/kkoucy/rd-uie)|
-|2505.01225|[core-set selection for data-efficient land cover segmentation](https://arxiv.org/abs/2505.01225)|[data-centric-rs-classification](https://github.com/keillernogueira/data-centric-rs-classification)|
-|2505.01257|[cameltrack: context-aware multi-cue exploitation for online multi-object tracking](https://arxiv.org/abs/2505.01257)|[CAMELTrack](https://github.com/TrackingLaboratory/CAMELTrack)|
-|2505.01406|[vidstamp: a temporally-aware watermark for ownership and integrity in video diffusion models](https://arxiv.org/abs/2505.01406)|[vidstamp](https://github.com/spin-umass/vidstamp)|
 
 
 ## Archives
