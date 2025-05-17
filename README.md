@@ -13,6 +13,32 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.03186|[cogenav: versatile audio-visual representation learning via contrastive-generative synchronization](https://arxiv.org/abs/2505.03186)|[cogenav](https://github.com/humanmllm/cogenav)|
+|2505.05901|[examining the source of defects from a mechanical perspective for 3d anomaly detection](https://arxiv.org/abs/2505.05901)|[mc4ad](https://github.com/hzzzzzhappy/mc4ad)|
+|2505.06512|[hcma: hierarchical cross-model alignment for grounded text-to-image generation](https://arxiv.org/abs/2505.06512)|[hcma](https://github.com/hwang-cs-ime/hcma)|
+|2505.08910|[behind maya: building a multilingual vision language model](https://arxiv.org/abs/2505.08910)|[maya](https://github.com/nahidalam/maya)|
+|2505.09926|[adaptclip: adapting clip for universal visual anomaly detection](https://arxiv.org/abs/2505.09926)|[AdaptCLIP](https://github.com/gaobb/AdaptCLIP)|
+|2505.09927|[ddfp: data-dependent frequency prompt for source free domain adaptation of medical image segmentation](https://arxiv.org/abs/2505.09927)|[SFDA-DDFP](https://github.com/YYinn/SFDA-DDFP)|
+|2505.09971|[apcotta: continual test-time adaptation for semantic segmentation of airborne lidar point clouds](https://arxiv.org/abs/2505.09971)|[apcotta](https://github.com/gaoyuan2/apcotta)|
+|2505.10049|[advances in radiance field for dynamic scene: from neural field to gaussian field](https://arxiv.org/abs/2505.10049)|[dynamic-radiation-field-paper-list](https://github.com/moonflo/dynamic-radiation-field-paper-list)|
+|2505.10088|[mmrl++: parameter-efficient and interaction-aware representation learning for vision-language models](https://arxiv.org/abs/2505.10088)|[MMRL](https://github.com/yunncheng/MMRL)|
+|2505.10124|[imitate: image registration with context for unknown time frame recovery](https://arxiv.org/abs/2505.10124)|[imitate](https://github.com/kheil-z/imitate)|
+|2505.10144|[vrsplat: fast and robust gaussian splatting for virtual reality](https://arxiv.org/abs/2505.10144)|[vrsplat](https://github.com/cekavis/vrsplat)|
+|2505.10223|[data-agnostic augmentations for unknown variations: out-of-distribution generalisation in mri segmentation](https://arxiv.org/abs/2505.10223)|[augmentations-for-the-unknown](https://github.com/miagrouput/augmentations-for-the-unknown)|
+|2505.10231|[on the interplay of human-ai alignment,fairness, and performance trade-offs in medical imaging](https://arxiv.org/abs/2505.10231)|[aligner](https://github.com/roypic/aligner)|
+|2505.10250|[adhmr: aligning diffusion-based human mesh recovery via direct preference optimization](https://arxiv.org/abs/2505.10250)|[adhmr](https://github.com/shenwenhao01/adhmr)|
+|2505.10281|[mfoghub: bridging multi-regional and multi-satellite data for global marine fog detection and forecasting](https://arxiv.org/abs/2505.10281)|[mfoghub](https://github.com/kaka0910/mfoghub)|
+|2505.10289|[msci: addressing clip's inherent limitations for compositional zero-shot learning](https://arxiv.org/abs/2505.10289)|[msci](https://github.com/ltpwy/msci)|
+|2505.10292|[storyreasoning dataset: using chain-of-thought for scene understanding and grounded story generation](https://arxiv.org/abs/2505.10292)|[storyreasoning](https://github.com/daniel3303/storyreasoning)|
+|2505.10294|[miphei-vit: multiplex immunofluorescence prediction from h&e images using vit foundation models](https://arxiv.org/abs/2505.10294)|[miphei-vit](https://github.com/sanofi-public/miphei-vit)|
+|2505.10351|[a unified and scalable membership inference method for visual self-supervised encoder via part-aware capability](https://arxiv.org/abs/2505.10351)|[partcrop](https://github.com/jiepku/partcrop)|
+|2505.10420|[learned lightweight smartphone isp with unpaired data](https://arxiv.org/abs/2505.10420)|[learned-lightweight-smartphone-isp-with-unpaired-data](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)|
+|2505.10464|[hwa-unetr: hierarchical window aggregate unetr for 3d multimodal gastric lesion segmentation](https://arxiv.org/abs/2505.10464)|[hwa-unetr](https://github.com/jeming-creater/hwa-unetr)|
+|2505.10496|[chexgenbench: a unified benchmark for fidelity, privacy and utility of synthetic chest radiographs](https://arxiv.org/abs/2505.10496)|[CheXGenBench](https://github.com/Raman1121/CheXGenBench)|
+|2505.10518|[multi-token prediction needs registers](https://arxiv.org/abs/2505.10518)|[mutor](https://github.com/nasosger/mutor)|
+|2505.10541|[exploring implicit visual misunderstandings in multimodal large language models through attention analysis](https://arxiv.org/abs/2505.10541)|[stme](https://github.com/welldonepf/stme)|
+|2505.10551|[does feasibility matter? understanding the impact of feasibility on synthetic training data](https://arxiv.org/abs/2505.10551)|[syntheticdatafeasibility](https://github.com/yiveen/syntheticdatafeasibility)|
+|2505.10557|[mathcoder-vl: bridging vision and code for enhanced multimodal mathematical reasoning](https://arxiv.org/abs/2505.10557)|[mathcoder](https://github.com/mathllm/mathcoder)|
 |2505.07634|[neural brain: a neuroscience-inspired framework for embodied agents](https://arxiv.org/abs/2505.07634)|[Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)|
 |2505.08175|[fast text-to-audio generation with adversarial post-training](https://arxiv.org/abs/2505.08175)|[stable-audio-tools](https://github.com/stability-ai/stable-audio-tools)|
 |2505.08527|[leveraging segment anything model for source-free domain adaptation via dual feature guided auto-prompting](https://arxiv.org/abs/2505.08527)|[dfg](https://github.com/xmed-lab/dfg)|
@@ -64,6 +90,7 @@ The main features include:
 |2505.08455|[vcrbench: exploring long-form causal reasoning capabilities of large video language models](https://arxiv.org/abs/2505.08455)|[vcrbench](https://github.com/pritamqu/vcrbench)|
 |2505.08468|[judging the judges: can large vision-language models fairly evaluate chart comprehension and reasoning?](https://arxiv.org/abs/2505.08468)|[chart_lvlm_judge](https://github.com/tahmedge/chart_lvlm_judge)|
 |2505.08581|[resurgsam2: referring segment anything in surgical video via credible long-term tracking](https://arxiv.org/abs/2505.08581)|[resurgsam2](https://github.com/jinlab-imvr/resurgsam2)|
+|2505.08586|[preprompt: predictive prompting for class incremental learning](https://arxiv.org/abs/2505.08586)|[PrePrompt](https://github.com/libo-huang/PrePrompt)|
 |2505.08601|[rejoining fragmented ancient bamboo slips with physics-driven deep learning](https://arxiv.org/abs/2505.08601)|[wisepanda](https://github.com/zhujinchi/wisepanda)|
 |2505.08604|[unsupervised out-of-distribution detection in medical imaging using multi-exit class activation maps and feature masking](https://arxiv.org/abs/2505.08604)|[mecam-ood](https://github.com/windstormer/mecam-ood)|
 |2505.08617|[openthinkimg: learning to think with images via visual tool reinforcement learning](https://arxiv.org/abs/2505.08617)|[openthinkimg](https://github.com/zhaochen0110/openthinkimg)|
