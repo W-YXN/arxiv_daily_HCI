@@ -81,7 +81,6 @@ The main features include:
 |2505.02831|[no other representation component is needed: diffusion transformers can provide representation guidance by themselves](https://arxiv.org/abs/2505.02831)|[sra](https://github.com/vvvvvjdy/sra)|
 |2505.05071|[fg-clip: fine-grained visual and textual alignment](https://arxiv.org/abs/2505.05071)|[fg-clip](https://github.com/360cvgroup/fg-clip)|
 |2505.05678|[instancegen: image generation with instance-level instructions](https://arxiv.org/abs/2505.05678)|[SLD](https://github.com/tsunghan-wu/SLD)|
-|2505.07449|[ophora: a large-scale data-driven text-guided ophthalmic surgical video generation model](https://arxiv.org/abs/2505.07449)|[ophora](https://github.com/mar-cry/ophora)|
 |2505.07530|[fluxsynid: a framework for identity-controlled synthetic face generation with document and live images](https://arxiv.org/abs/2505.07530)|[FLUXSynID](https://github.com/Raul2718/FLUXSynID)|
 |2505.08031|[measuring and predicting variation in the difficulty of questions about data visualizations](https://arxiv.org/abs/2505.08031)|[viz_item_measures_cogsci2025](https://github.com/cogtoolslab/viz_item_measures_cogsci2025)|
 |2505.08101|[topology-guided knowledge distillation for efficient point cloud processing](https://arxiv.org/abs/2505.08101)|[pointdistill](https://github.com/hysonlab/pointdistill)|
@@ -146,37 +145,6 @@ The main features include:
 |2505.07496|[docvxqa: context-aware visual explanations for document question answering](https://arxiv.org/abs/2505.07496)|[docvxqa](https://github.com/dali92002/docvxqa)|
 |2505.07689|[anatomical attention alignment representation for radiology report generation](https://arxiv.org/abs/2505.07689)|[a3net](https://github.com/vinh-ai/a3net)|
 |2505.07812|[continuous visual autoregressive generation via score maximization](https://arxiv.org/abs/2505.07812)|[ear](https://github.com/shaochenze/ear)|
-|2505.02539|[marker-based extrinsic calibration method for accurate multi-camera 3d reconstruction](https://arxiv.org/abs/2505.02539)|[CalibMarker](https://github.com/Tech4DLab/CalibMarker)|
-|2505.02835|[r1-reward: training multimodal reward model through stable reinforcement learning](https://arxiv.org/abs/2505.02835)|[r1_reward](https://github.com/yfzhang114/r1_reward)|
-|2505.05049|[uncertainsam: fast and efficient uncertainty quantification of the segment anything model](https://arxiv.org/abs/2505.05049)|[UncertainSAM](https://github.com/GreenAutoML4FAS/UncertainSAM)|
-|2505.05375|[threshold modulation for online test-time adaptation of spiking neural networks](https://arxiv.org/abs/2505.05375)|[tm-otta-snn](https://github.com/nneurotransmitterr/tm-otta-snn)|
-|2505.05504|[image restoration via multi-domain learning](https://arxiv.org/abs/2505.05504)|[swformer](https://github.com/deng-ai-lab/swformer)|
-|2505.05505|[apply hierarchical-chain-of-generation to complex attributes text-to-3d generation](https://arxiv.org/abs/2505.05505)|[gascol](https://github.com/wakals/gascol)|
-|2505.05510|[how to train your metamorphic deep neural network](https://arxiv.org/abs/2505.05510)|[htty_neumeta](https://github.com/tsommariva/htty_neumeta)|
-|2505.05528|[x-transfer attacks: towards super transferable adversarial attacks on clip](https://arxiv.org/abs/2505.05528)|[XTransferBench](https://github.com/HanxunH/XTransferBench)|
-|2505.05599|[enhancing satellite object localization with dilated convolutions and attention-aided spatial pooling](https://arxiv.org/abs/2505.05599)|[satellite-object-localization](https://github.com/ai-4-atmosphere-remote-sensing/satellite-object-localization)|
-|2505.05621|[a preliminary study for gpt-4o on image restoration](https://arxiv.org/abs/2505.05621)|[gpt_restoration](https://github.com/noxsine/gpt_restoration)|
-|2505.05657|[unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
-|2505.05659|[v-efficientnets: vector-valued efficiently scaled convolutional neural network models](https://arxiv.org/abs/2505.05659)|[v-nets](https://github.com/mevalle/v-nets)|
-|2505.05689|[equivariant imaging biomarkers for robust unsupervised segmentation of histopathology](https://arxiv.org/abs/2505.05689)|[sre_unsupervised_segm](https://github.com/fyc423/sre_unsupervised_segm)|
-|2505.05711|[digit: multi-dilated gated encoder and central-adjacent region integrated decoder for temporal action detection transformer](https://arxiv.org/abs/2505.05711)|[digit](https://github.com/dotori-hj/digit)|
-|2505.05736|[multimodal integrated knowledge transfer to large language models through preference optimization with biomedical applications](https://arxiv.org/abs/2505.05736)|[mint-llm](https://github.com/wglab/mint-llm)|
-|2505.05752|[automating infrastructure surveying: a framework for geometric measurements and compliance assessment using point cloud data](https://arxiv.org/abs/2505.05752)|[surveyautomation](https://github.com/soltanilara/surveyautomation)|
-|2505.05812|[towards order of magnitude x-ray dose reduction in breast cancer imaging using phase contrast and deep denoising](https://arxiv.org/abs/2505.05812)|[quell](https://github.com/quell-devs/quell)|
-|2505.05829|[accelerating diffusion transformer via increment-calibrated caching with channel-aware singular value decomposition](https://arxiv.org/abs/2505.05829)|[icc](https://github.com/ccccczzy/icc)|
-|2505.05834|[dual-level fuzzy learning with patch guidance for image ordinal regression](https://arxiv.org/abs/2505.05834)|[dfpg-ord](https://github.com/zjumai/dfpg-ord)|
-|2505.05895|[leveraging vision-language models for visual grounding and analysis of automotive ui](https://arxiv.org/abs/2505.05895)|[ELAM-7B](https://huggingface.co/sparks-solutions/ELAM-7B)|
-|2505.05913|[dfen: dual feature equalization network for medical image segmentation](https://arxiv.org/abs/2505.05913)|[dfen](https://github.com/jianjianyin/dfen)|
-|2505.05936|[cgtrack: cascade gating network with hierarchical feature aggregation for uav tracking](https://arxiv.org/abs/2505.05936)|[cgtrack](https://github.com/nightwatch-fox11/cgtrack)|
-|2505.06002|[task-adapter++: task-specific adaptation with order-aware alignment for few-shot action recognition](https://arxiv.org/abs/2505.06002)|[task-adapter-pp](https://github.com/jaulin-bage/task-adapter-pp)|
-|2505.06003|[from pixels to perception: interpretable predictions via instance-wise grouped feature selection](https://arxiv.org/abs/2505.06003)|[p2p](https://github.com/mvandenhi/p2p)|
-|2505.06030|[why are you wrong? counterfactual explanations for language grounding with 3d objects](https://arxiv.org/abs/2505.06030)|[why-are-you-wrong](https://github.com/toprei/why-are-you-wrong)|
-|2505.06064|[context informed incremental learning improves myoelectric control performance in virtual reality object manipulation tasks](https://arxiv.org/abs/2505.06064)|[ciil-emg-vr](https://github.com/biomedicalits/ciil-emg-vr)|
-|2505.06068|[noise-consistent siamese-diffusion for medical image synthesis and segmentation](https://arxiv.org/abs/2505.06068)|[siamese-diffusion](https://github.com/qiukunpeng/siamese-diffusion)|
-|2505.06107|[differentiating emigration from return migration of scholars using name-based nationality detection models](https://arxiv.org/abs/2505.06107)|[NameBasedNationalityDetection](https://github.com/FaezeGhorbanpour/NameBasedNationalityDetection)|
-|2505.06120|[llms get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)|[lost_in_conversation](https://github.com/microsoft/lost_in_conversation)|
-|2505.06134|[realistic adversarial attacks for robustness evaluation of trajectory prediction models via future state perturbation](https://arxiv.org/abs/2505.06134)|[general-framework-update-adversarial-jeroen](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)|
-|2505.06152|[mm-skin: enhancing dermatology vision-language model with an image-text dataset derived from textbooks](https://arxiv.org/abs/2505.06152)|[mm-skin](https://github.com/zwq803/mm-skin)|
 
 
 ## Archives
