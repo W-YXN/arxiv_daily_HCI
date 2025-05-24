@@ -13,6 +13,20 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.02567|[unified multimodal understanding and generation models: advances, challenges, and opportunities](https://arxiv.org/abs/2505.02567)|[awesome-unified-multimodal-models](https://github.com/aidc-ai/awesome-unified-multimodal-models)|
+|2505.10049|[advances in radiance field for dynamic scene: from neural field to gaussian field](https://arxiv.org/abs/2505.10049)|[dynamic-radiation-field-paper-list](https://github.com/moonflo/dynamic-radiation-field-paper-list)|
+|2505.10250|[adhmr: aligning diffusion-based human mesh recovery via direct preference optimization](https://arxiv.org/abs/2505.10250)|[adhmr](https://github.com/shenwenhao01/adhmr)|
+|2505.10473|[consistent quantity-quality control across scenes for deployment-aware gaussian splatting](https://arxiv.org/abs/2505.10473)|[ControlGS](https://github.com/zhang-fengdi/ControlGS)|
+|2505.12007|[multi-modal collaborative optimization and expansion network for event-assisted single-eye expression recognition](https://arxiv.org/abs/2505.12007)|[MCO-E-Net](https://github.com/hrdhrd/MCO-E-Net)|
+|2505.12081|[visionreasoner: unified visual perception and reasoning via reinforcement learning](https://arxiv.org/abs/2505.12081)|[VisionReasoner](https://github.com/dvlab-research/VisionReasoner)|
+|2505.14068|[place recognition: a comprehensive review, current challenges and future directions](https://arxiv.org/abs/2505.14068)|[sota-place-recognitioner](https://github.com/cv4ra/sota-place-recognitioner)|
+|2505.15222|[continuous representation methods, theories, and applications: an overview and perspectives](https://arxiv.org/abs/2505.15222)|[continuous-representation-zoo](https://github.com/yisiluo/continuous-representation-zoo)|
+|2505.15358|[objective bicycle occlusion level classification using a deformable parts-based model](https://arxiv.org/abs/2505.15358)|[Bicycle_Occlusion_Level](https://github.com/angelmangubat/Bicycle_Occlusion_Level)|
+|2505.15441|[stronger vits with octic equivariance](https://arxiv.org/abs/2505.15441)|[octic-vits](https://github.com/davnords/octic-vits)|
+|2505.15810|[gui-g1: understanding r1-zero-like training for visual grounding in gui agents](https://arxiv.org/abs/2505.15810)|[gui-g1](https://github.com/yuqi-zhou/gui-g1)|
+|2505.16264|[linea: fast and accurate line detection using scalable transformers](https://arxiv.org/abs/2505.16264)|[LINEA](https://github.com/SebastianJanampa/LINEA)|
+|2505.16663|[conav: collaborative cross-modal reasoning for embodied navigation](https://arxiv.org/abs/2505.16663)|[CoNav](https://github.com/oceanhao/CoNav)|
+|2505.17012|[spatialscore: towards unified evaluation for multimodal spatial understanding](https://arxiv.org/abs/2505.17012)|[SpatialScore](https://github.com/haoningwu3639/SpatialScore)|
 |2505.01237|[cav-mae sync: improving contrastive audio-visual mask autoencoders via fine-grained alignment](https://arxiv.org/abs/2505.01237)|[cav-mae-sync](https://github.com/edsonroteia/cav-mae-sync)|
 |2505.04046|[reliable disentanglement multi-view learning against view adversarial attacks](https://arxiv.org/abs/2505.04046)|[2025-IJCAI-RDML](https://github.com/Willy1005/2025-IJCAI-RDML)|
 |2505.04788|[convex relaxation for robust vanishing point estimation in manhattan world](https://arxiv.org/abs/2505.04788)|[globustvp](https://github.com/wu-cvgl/globustvp)|
@@ -215,7 +229,7 @@ The main features include:
 |2505.11131|[one image is worth a thousand words: a usability preservable text-image collaborative erasing framework](https://arxiv.org/abs/2505.11131)|[co-erasing](https://github.com/ferry-li/co-erasing)|
 |2505.11146|[x2c: a dataset featuring nuanced facial expressions for realistic humanoid imitation](https://arxiv.org/abs/2505.11146)|[x2cnet](https://github.com/lipzh5/x2cnet)|
 |2505.11196|[dico: revitalizing convnets for scalable and efficient diffusion modeling](https://arxiv.org/abs/2505.11196)|[dico](https://github.com/shallowdream204/dico)|
-|2505.11237|[concept drift guided layernorm tuning for efficient multimodal metaphor identification](https://arxiv.org/abs/2505.11237)|[CDGLT](https://github.com/Qianvenh/CDGLT)|
+|2505.11237|[concept drift guided layernorm tuning for efficient multimodal metaphor identification](https://arxiv.org/abs/2505.11237)|[CDGLT](https://github.com/MSA-LMC/CDGLT)|
 |2505.11245|[diffusion-npo: negative preference optimization for better preference aligned generation of diffusion models](https://arxiv.org/abs/2505.11245)|[diffusion-npo](https://github.com/g-u-n/diffusion-npo)|
 |2505.11246|[entropy-driven genetic optimization for deep-feature-guided low-light image enhancement](https://arxiv.org/abs/2505.11246)|[entropy-driven-genetic-optimization-for-deep-feature-guided-low-light-image-enhancement](https://github.com/nirjhor-datta/entropy-driven-genetic-optimization-for-deep-feature-guided-low-light-image-enhancement)|
 |2505.11293|[breaking the batch barrier (b3) of contrastive learning via smart batch mining](https://arxiv.org/abs/2505.11293)|[b3](https://github.com/raghavlite/b3)|
