@@ -13,6 +13,19 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.04229|[a weak supervision learning approach towards an equitable mobility estimation](https://arxiv.org/abs/2505.04229)|[equitable_mobility_estimation](https://github.com/societal-computing/equitable_mobility_estimation)|
+|2505.12363|[towards visuospatial cognition via hierarchical fusion of visual experts](https://arxiv.org/abs/2505.12363)|[vica](https://github.com/nkkbr/vica)|
+|2505.14664|[akrmap: adaptive kernel regression for trustworthy visualization of cross-modal embeddings](https://arxiv.org/abs/2505.14664)|[akrmap](https://github.com/yilinye/akrmap)|
+|2505.16832|[from eduvisbench to eduvisagent: a benchmark and multi-agent framework for reasoning-driven pedagogical visualization](https://arxiv.org/abs/2505.16832)|[eduvisbench](https://github.com/aiming-lab/eduvisbench)|
+|2505.17002|[paeff: precise alignment and enhanced gated feature fusion for face-voice association](https://arxiv.org/abs/2505.17002)|[paeff](https://github.com/hannabdul/paeff)|
+|2505.17937|[survival games: human-llm strategic showdowns under severe resource scarcity](https://arxiv.org/abs/2505.17937)|[survival-games](https://github.com/hong123123/survival-games)|
+|2505.20292|[opens2v-nexus: a detailed benchmark and million-scale dataset for subject-to-video generation](https://arxiv.org/abs/2505.20292)|[ConsisID](https://github.com/PKU-YuanGroup/ConsisID)|
+|2505.21136|[sageattention2++: a more efficient implementation of sageattention2](https://arxiv.org/abs/2505.21136)|[SageAttention](https://github.com/thu-ml/SageAttention)|
+|2505.21544|[vision meets language: a rag-augmented yolov8 framework for coffee disease diagnosis and farmer assistance](https://arxiv.org/abs/2505.21544)|[A-RAG-Augmented-YOLOv8-Framework](https://github.com/semanto-mondal/A-RAG-Augmented-YOLOv8-Framework)|
+|2505.21925|[renderformer: transformer-based neural rendering of triangle meshes with global illumination](https://arxiv.org/abs/2505.21925)|[renderformer](https://github.com/microsoft/renderformer)|
+|2505.21954|[unitalk: towards universal active speaker detection in real world scenarios](https://arxiv.org/abs/2505.21954)|[UniTalk-ASD-code](https://github.com/plnguyen2908/UniTalk-ASD-code)|
+|2505.22228|[gomatching++: parameter- and data-efficient arbitrary-shaped video text spotting and benchmarking](https://arxiv.org/abs/2505.22228)|[gomatching](https://github.com/hxyz-123/gomatching)|
+|2505.22664|[zero-shot vision encoder grafting via llm surrogates](https://arxiv.org/abs/2505.22664)|[zero](https://github.com/facebookresearch/zero)|
 |2505.10464|[hwa-unetr: hierarchical window aggregate unetr for 3d multimodal gastric lesion segmentation](https://arxiv.org/abs/2505.10464)|[hwa-unetr](https://github.com/jeming-creater/hwa-unetr)|
 |2505.10610|[mmlongbench: benchmarking long-context vision-language models effectively and thoroughly](https://arxiv.org/abs/2505.10610)|[mmlongbench](https://github.com/edinburghnlp/mmlongbench)|
 |2505.12155|[softpq: robust instance segmentation evaluation via soft matching and tunable thresholds](https://arxiv.org/abs/2505.12155)|[SoftPQ](https://github.com/rkarmaka/SoftPQ)|
@@ -24,7 +37,9 @@ The main features include:
 |2505.18022|[remotesam: towards segment anything for earth observation](https://arxiv.org/abs/2505.18022)|[RemoteSAM](https://github.com/1e12Leon/RemoteSAM)|
 |2505.18060|[semantic correspondence: unified benchmarking and a strong baseline](https://arxiv.org/abs/2505.18060)|[Semantic-Correspondence](https://github.com/Visual-AI/Semantic-Correspondence)|
 |2505.18958|[cdpdnet: integrating text guidance with hybrid vision encoders for medical image segmentation](https://arxiv.org/abs/2505.18958)|[cdpdnet](https://github.com/wujiong-hub/cdpdnet)|
+|2505.20414|[retromotion: retrocausal motion forecasting models are instructable](https://arxiv.org/abs/2505.20414)|[future-motion](https://github.com/kit-mrt/future-motion)|
 |2505.20426|[mmperspective: do mllms understand perspective? a comprehensive benchmark for perspective perception, reasoning, and robustness](https://arxiv.org/abs/2505.20426)|[MMPerspective](https://github.com/yunlong10/MMPerspective)|
+|2505.20753|[understand, think, and answer: advancing visual reasoning with large multimodal models](https://arxiv.org/abs/2505.20753)|[griffon](https://github.com/jefferyzhan/griffon)|
 |2505.21032|[featinv: spatially resolved mapping from feature space to input space using conditional diffusion models](https://arxiv.org/abs/2505.21032)|[FeatInv](https://github.com/AI4HealthUOL/FeatInv)|
 |2505.21152|[robis: robust binary segmentation for high-resolution industrial images](https://arxiv.org/abs/2505.21152)|[robis](https://github.com/xrli-u/robis)|
 |2505.21375|[geollava-8k: scaling remote-sensing multimodal large language models to 8k resolution](https://arxiv.org/abs/2505.21375)|[GeoLLaVA-8K](https://github.com/MiliLab/GeoLLaVA-8K)|
@@ -40,18 +55,18 @@ The main features include:
 |2505.14362|[deepeyes: incentivizing "thinking with images" via reinforcement learning](https://arxiv.org/abs/2505.14362)|[deepeyes](https://github.com/visual-agent/deepeyes)|
 |2505.15235|[x-grm: large gaussian reconstruction model for sparse-view x-rays to computed tomography](https://arxiv.org/abs/2505.15235)|[x-grm](https://github.com/cuhk-aim-group/x-grm)|
 |2505.15660|[exploring the limits of vision-language-action manipulations in cross-task generalization](https://arxiv.org/abs/2505.15660)|[X-ICM](https://github.com/jiaming-zhou/X-ICM)|
-|2505.16091|[oscar: one-step diffusion codec across multiple bit-rates](https://arxiv.org/abs/2505.16091)|[oscar](https://github.com/jp-guo/oscar)|
 |2505.16882|[tracking the flight: exploring a computational framework for analyzing escape responses in plains zebra (equus quagga)](https://arxiv.org/abs/2505.16882)|[zebras-stitching](https://github.com/neuroinformatics-unit/zebras-stitching)|
 |2505.16990|[dimple: discrete diffusion multimodal large language model with parallel decoding](https://arxiv.org/abs/2505.16990)|[dimple](https://github.com/yu-rp/dimple)|
 |2505.18156|[injectlab: a tactical framework for adversarial threat modeling against large language models](https://arxiv.org/abs/2505.18156)|[injectlab](https://github.com/ahow2004/injectlab)|
 |2505.18175|[evaluation in eeg emotion recognition: state-of-the-art review and unified framework](https://arxiv.org/abs/2505.18175)|[eegain](https://github.com/emotionlab/eegain)|
 |2505.18197|[a novel benchmark and dataset for efficient 3d gaussian splatting with gaussian point cloud compression](https://arxiv.org/abs/2505.18197)|[GausPcc](https://github.com/Wangkkklll/GausPcc)|
 |2505.18412|[rehabilitation exercise quality assessment and feedback generation using large language models with prompt engineering](https://arxiv.org/abs/2505.18412)|[exercisellm](https://github.com/jessicaxtang/exercisellm)|
-|2505.18424|[how we won the isles'24 challenge by preprocessing](https://arxiv.org/abs/2505.18424)|[ISLES2024](https://github.com/KurtLabUW/ISLES2024)|
 |2505.18487|[grounding bodily awareness in visual representations for efficient policy learning](https://arxiv.org/abs/2505.18487)|[icon](https://github.com/henrywjl/icon)|
 |2505.18536|[reinforcement fine-tuning powers reasoning capability of multimodal large language models](https://arxiv.org/abs/2505.18536)|[awesome-rl-based-reasoning-mllms](https://github.com/sun-haoyuan23/awesome-rl-based-reasoning-mllms)|
 |2505.18546|[reflectgan: modeling vegetation effects for soil carbon estimation from satellite imagery](https://arxiv.org/abs/2505.18546)|[reflectgan](https://github.com/dristidatta/reflectgan)|
 |2505.18547|[diffusion blend: inference-time multi-preference alignment for diffusion models](https://arxiv.org/abs/2505.18547)|[db-2025](https://github.com/bluewoods127/db-2025)|
+|2505.18582|[on denoising walking videos for gait recognition](https://arxiv.org/abs/2505.18582)|[opengait](https://github.com/shiqiyu/opengait)|
+|2505.18614|[mavl: a multilingual audio-video lyrics dataset for animated song translation](https://arxiv.org/abs/2505.18614)|[MAVL](https://github.com/k1064190/MAVL)|
 |2505.18730|[align beyond prompts: evaluating world knowledge alignment in text-to-image generation](https://arxiv.org/abs/2505.18730)|[abp](https://github.com/smile365317/abp)|
 |2505.18787|[think twice before adaptation: improving adaptability of deepfake detection via online test-time adaptation](https://arxiv.org/abs/2505.18787)|[t2a-think-twice-before-adaptation](https://github.com/honghanh2104/t2a-think-twice-before-adaptation)|
 |2505.18829|[litecua: computer as mcp server for computer-use agent on aios](https://arxiv.org/abs/2505.18829)|[aios](https://github.com/agiresearch/aios)|
@@ -73,18 +88,18 @@ The main features include:
 |2505.19161|[benchmarking laparoscopic surgical image restoration and beyond](https://arxiv.org/abs/2505.19161)|[surgical-image-restoration](https://github.com/pjlallen/surgical-image-restoration)|
 |2505.19190|[i2moe: interpretable multimodal interaction-aware mixture-of-experts](https://arxiv.org/abs/2505.19190)|[i2moe](https://github.com/raina-xin/i2moe)|
 |2505.19196|[step-level reward for free in rl-based t2i diffusion model fine-tuning](https://arxiv.org/abs/2505.19196)|[coca](https://github.com/lil-shake/coca)|
+|2505.19208|[domain and task-focused example selection for data-efficient contrastive medical image segmentation](https://arxiv.org/abs/2505.19208)|[polycl](https://github.com/tbwa233/polycl)|
 |2505.19218|[advancing video self-supervised learning via image foundation models](https://arxiv.org/abs/2505.19218)|[advise-video-ssl](https://github.com/jingwwu/advise-video-ssl)|
 |2505.19225|[meditok: a unified tokenizer for medical image synthesis and interpretation](https://arxiv.org/abs/2505.19225)|[meditok](https://github.com/masaaki-75/meditok)|
 |2505.19235|[corematching: a co-adaptive sparse inference framework with token and neuron pruning for comprehensive acceleration of vision-language models](https://arxiv.org/abs/2505.19235)|[2025-icml-corematching](https://github.com/wangqinsi1/2025-icml-corematching)|
 |2505.19249|[rgc-bent: a novel dataset for bent radio galaxy classification](https://arxiv.org/abs/2505.19249)|[rgc-bent](https://github.com/mirsazzathossain/rgc-bent)|
-|2505.19256|[polypose: localizing deformable anatomy in 3d from sparse 2d x-ray images using polyrigid transforms](https://arxiv.org/abs/2505.19256)|[polypose](https://github.com/eigenvivek/polypose)|
 |2505.19264|[improving novel view synthesis of 360$^\circ$ scenes in extremely sparse views by jointly training hemisphere sampled synthetic images](https://arxiv.org/abs/2505.19264)|[hemisparsegs](https://github.com/angchen-dev/hemisparsegs)|
 |2505.19319|[holistic white-light polyp classification via alignment-free dense distillation of auxiliary optical chromoendoscopy](https://arxiv.org/abs/2505.19319)|[add](https://github.com/huster-hq/add)|
-|2505.19328|[bah dataset for ambivalence/hesitancy recognition in videos for behavioural change](https://arxiv.org/abs/2505.19328)|[bah-dataset](https://github.com/sbelharbi/bah-dataset)|
 |2505.19434|[cstrack: enhancing rgb-x tracking via compact spatiotemporal features](https://arxiv.org/abs/2505.19434)|[cstrack](https://github.com/xiaokunfeng/cstrack)|
 |2505.19455|[mm-prompt: cross-modal prompt tuning for continual visual question answering](https://arxiv.org/abs/2505.19455)|[cvqa](https://github.com/xli04/cvqa)|
 |2505.19503|[locality-aware zero-shot human-object interaction detection](https://arxiv.org/abs/2505.19503)|[lain](https://github.com/oreochocolate/lain)|
 |2505.19536|[flowcut: rethinking redundancy via information flow for efficient vision-language models](https://arxiv.org/abs/2505.19536)|[flowcut](https://github.com/tungchintao/flowcut)|
+|2505.19546|[smart-pc: skeletal model adaptation for robust test-time training in point clouds](https://arxiv.org/abs/2505.19546)|[smart-pc](https://github.com/alibahri94/smart-pc)|
 |2505.19564|[k-buffers: a plug-in method for enhancing neural fields with multiple buffers](https://arxiv.org/abs/2505.19564)|[k-buffers](https://github.com/renhaofan/k-buffers)|
 |2505.19571|[vtbench: comprehensive benchmark suite towards real-world virtual try-on models](https://arxiv.org/abs/2505.19571)|[vtbench](https://github.com/huuxiaobin/vtbench)|
 |2505.19611|[align and surpass human camouflaged perception: visual refocus reinforcement fine-tuning](https://arxiv.org/abs/2505.19611)|[vrrf](https://github.com/huuxiaobin/vrrf)|
@@ -145,71 +160,13 @@ The main features include:
 |2505.17807|[temporal consistency constrained transferable adversarial attacks with background mixup for action recognition](https://arxiv.org/abs/2505.17807)|[bmtc_transferattackvid](https://github.com/mlvccn/bmtc_transferattackvid)|
 |2505.17883|[fastcav: efficient computation of concept activation vectors for explaining deep neural networks](https://arxiv.org/abs/2505.17883)|[fastcav](https://gitlab.com/dlr-dw/fastcav)|
 |2505.17884|[track anything annotate: video annotation and dataset generation of computer vision models](https://arxiv.org/abs/2505.17884)|[track-anything-annotate](https://github.com/lnikioffic/track-anything-annotate)|
+|2505.17908|[comfymind: toward general-purpose generation via tree-based planning and reactive feedback](https://arxiv.org/abs/2505.17908)|[ComfyMind](https://github.com/EnVision-Research/ComfyMind)|
 |2505.17911|[object-level cross-view geo-localization with location enhancement and multi-head cross attention](https://arxiv.org/abs/2505.17911)|[ocgnet](https://github.com/zheyangh/ocgnet)|
 |2505.18015|[semsegbench & detecbench: benchmarking reliability and generalization beyond classification](https://arxiv.org/abs/2505.18015)|[benchmarking_reliability_generalization](https://github.com/shashankskagnihotri/benchmarking_reliability_generalization)|
+|2505.18025|[3d face reconstruction error decomposed: a modular benchmark for fair and fast method evaluation](https://arxiv.org/abs/2505.18025)|[M3DFB](https://github.com/sariyanidi/M3DFB)|
 |2505.18028|[knot so simple: a minimalistic environment for spatial reasoning](https://arxiv.org/abs/2505.18028)|[knotgym](https://github.com/lil-lab/knotgym)|
 |2505.18035|[camme: adaptive deepfake image detection with multi-modal cross-attention](https://arxiv.org/abs/2505.18035)|[camme](https://github.com/magnet300/camme)|
 |2505.18153|[ren: fast and efficient region encodings from patch-based image encoders](https://arxiv.org/abs/2505.18153)|[ren](https://github.com/savya08/ren)|
-|2505.02567|[unified multimodal understanding and generation models: advances, challenges, and opportunities](https://arxiv.org/abs/2505.02567)|[awesome-unified-multimodal-models](https://github.com/aidc-ai/awesome-unified-multimodal-models)|
-|2505.10049|[advances in radiance field for dynamic scene: from neural field to gaussian field](https://arxiv.org/abs/2505.10049)|[dynamic-radiation-field-paper-list](https://github.com/moonflo/dynamic-radiation-field-paper-list)|
-|2505.10250|[adhmr: aligning diffusion-based human mesh recovery via direct preference optimization](https://arxiv.org/abs/2505.10250)|[adhmr](https://github.com/shenwenhao01/adhmr)|
-|2505.10473|[consistent quantity-quality control across scenes for deployment-aware gaussian splatting](https://arxiv.org/abs/2505.10473)|[ControlGS](https://github.com/zhang-fengdi/ControlGS)|
-|2505.12007|[multi-modal collaborative optimization and expansion network for event-assisted single-eye expression recognition](https://arxiv.org/abs/2505.12007)|[MCO-E-Net](https://github.com/hrdhrd/MCO-E-Net)|
-|2505.12081|[visionreasoner: unified visual perception and reasoning via reinforcement learning](https://arxiv.org/abs/2505.12081)|[easyr1](https://github.com/hiyouga/easyr1)|
-|2505.14068|[place recognition: a comprehensive review, current challenges and future directions](https://arxiv.org/abs/2505.14068)|[sota-place-recognitioner](https://github.com/cv4ra/sota-place-recognitioner)|
-|2505.15222|[continuous representation methods, theories, and applications: an overview and perspectives](https://arxiv.org/abs/2505.15222)|[continuous-representation-zoo](https://github.com/yisiluo/continuous-representation-zoo)|
-|2505.15358|[objective bicycle occlusion level classification using a deformable parts-based model](https://arxiv.org/abs/2505.15358)|[Bicycle_Occlusion_Level](https://github.com/angelmangubat/Bicycle_Occlusion_Level)|
-|2505.15441|[stronger vits with octic equivariance](https://arxiv.org/abs/2505.15441)|[octic-vits](https://github.com/davnords/octic-vits)|
-|2505.15810|[gui-g1: understanding r1-zero-like training for visual grounding in gui agents](https://arxiv.org/abs/2505.15810)|[gui-g1](https://github.com/yuqi-zhou/gui-g1)|
-|2505.15867|[scenir: visual semantic clarity through unsupervised scene graph retrieval](https://arxiv.org/abs/2505.15867)|[scenir-icml2025](https://github.com/nickhaidos/scenir-icml2025)|
-|2505.15870|[satellites reveal mobility: a commuting origin-destination flow generator for global cities](https://arxiv.org/abs/2505.15870)|[generate-od-pubtools](https://github.com/tsinghua-fib-lab/generate-od-pubtools)|
-|2505.15928|[viqagent: zero-shot video question answering via agent with open-vocabulary grounding validation](https://arxiv.org/abs/2505.15928)|[viqagent](https://github.com/t-montes/viqagent)|
-|2505.16029|[learning better representations for crowded pedestrians in offboard lidar-camera 3d tracking-by-detection](https://arxiv.org/abs/2505.16029)|[pcp-mv](https://github.com/nicholasli1995/pcp-mv)|
-|2505.16104|[hierarchical safety realignment: lightweight restoration of safety in pruned large vision-language models](https://arxiv.org/abs/2505.16104)|[hsr](https://github.com/theshineyue/hsr)|
-|2505.16161|[deep learning-driven ultra-high-definition image restoration: a survey](https://arxiv.org/abs/2505.16161)|[uhd-image-restoration-survey](https://github.com/wlydlut/uhd-image-restoration-survey)|
-|2505.16165|[re-trip : reflectivity instance augmented triangle descriptor for 3d place recognition](https://arxiv.org/abs/2505.16165)|[re-trip](https://github.com/pyc5714/re-trip)|
-|2505.16175|[quickvideo: real-time long video understanding with system algorithm co-design](https://arxiv.org/abs/2505.16175)|[quickvideo](https://github.com/tiger-ai-lab/quickvideo)|
-|2505.16264|[linea: fast and accurate line detection using scalable transformers](https://arxiv.org/abs/2505.16264)|[LINEA](https://github.com/SebastianJanampa/LINEA)|
-|2505.16282|[arpo:end-to-end policy optimization for gui agents with experience replay](https://arxiv.org/abs/2505.16282)|[arpo](https://github.com/dvlab-research/arpo)|
-|2505.16313|[accelerating targeted hard-label adversarial attacks in low-query black-box settings](https://arxiv.org/abs/2505.16313)|[tea](https://github.com/mdppml/tea)|
-|2505.16321|[efficient motion prompt learning for robust visual tracking](https://arxiv.org/abs/2505.16321)|[motion-prompt-tracking](https://github.com/zj5559/motion-prompt-tracking)|
-|2505.16335|[fpqvar: floating point quantization for visual autoregressive model with fpga hardware co-design](https://arxiv.org/abs/2505.16335)|[fpqvar](https://github.com/pku-sec-lab/fpqvar)|
-|2505.16360|[style transfer with diffusion models for synthetic-to-real domain adaptation](https://arxiv.org/abs/2505.16360)|[cactif](https://github.com/echigot/cactif)|
-|2505.16376|[decafnet: delegate and conquer for efficient temporal grounding in long videos](https://arxiv.org/abs/2505.16376)|[cvpr2025-decafnet](https://github.com/zijialewislu/cvpr2025-decafnet)|
-|2505.16402|[advreal: adversarial patch generation framework with application to adversarial safety evaluation of object detection systems](https://arxiv.org/abs/2505.16402)|[advreal](https://github.com/huangyh98/advreal)|
-|2505.16411|[mitigating hallucinations in vision-language models through image-guided head suppression](https://arxiv.org/abs/2505.16411)|[spin](https://github.com/yueche77/spin)|
-|2505.16416|[circle-rope: cone-like decoupled rotary positional embedding for large vision-language models](https://arxiv.org/abs/2505.16416)|[circlerope](https://github.com/lose4578/circlerope)|
-|2505.16441|[ranked entropy minimization for continual test-time adaptation](https://arxiv.org/abs/2505.16441)|[rem](https://github.com/pilshan/rem)|
-|2505.16470|[benchmarking retrieval-augmented multimomal generation for document question answering](https://arxiv.org/abs/2505.16470)|[mmdocrag](https://github.com/mmdocrag/mmdocrag)|
-|2505.16495|[alto: adaptive-length tokenizer for autoregressive mask generation](https://arxiv.org/abs/2505.16495)|[altollm](https://github.com/yayafengzi/altollm)|
-|2505.16579|[bridging the dynamic perception gap: training-free draft chain-of-thought for dynamic multimodal spatial reasoning](https://arxiv.org/abs/2505.16579)|[d2r](https://github.com/cratileo/d2r)|
-|2505.16625|[background matters: a cross-view bidirectional modeling framework for semi-supervised medical image segmentation](https://arxiv.org/abs/2505.16625)|[cvbm](https://github.com/caoluyang0830/cvbm)|
-|2505.16650|[unsupervised network anomaly detection with autoencoders and traffic images](https://arxiv.org/abs/2505.16650)|[image-based-network-traffic-anomaly-detection](https://github.com/michaelneri/image-based-network-traffic-anomaly-detection)|
-|2505.16658|[zero-shot hyperspectral pansharpening using hysteresis-based tuning for spectral quality control](https://arxiv.org/abs/2505.16658)|[rho-pnn](https://github.com/giu-guarino/rho-pnn)|
-|2505.16663|[conav: collaborative cross-modal reasoning for embodied navigation](https://arxiv.org/abs/2505.16663)|[CoNav](https://github.com/oceanhao/CoNav)|
-|2505.16673|[r1-sharevl: incentivizing reasoning capability of multimodal large language models via share-grpo](https://arxiv.org/abs/2505.16673)|[r1-sharevl](https://github.com/hjyao00/r1-sharevl)|
-|2505.16685|[on the use of graphs for satellite image time series](https://arxiv.org/abs/2505.16685)|[graph4sits](https://github.com/corentin-dfg/graph4sits)|
-|2505.16740|[robust vision-based runway detection through conformal prediction and conformal map](https://arxiv.org/abs/2505.16740)|[conformal_runway_detection](https://github.com/alyasltd/conformal_runway_detection)|
-|2505.16778|[single domain generalization for few-shot counting via universal representation matching](https://arxiv.org/abs/2505.16778)|[urm](https://github.com/jbr97/urm)|
-|2505.16792|[repa works until it doesn't: early-stopped, holistic alignment supercharges diffusion training](https://arxiv.org/abs/2505.16792)|[haste](https://github.com/nus-hpc-ai-lab/haste)|
-|2505.16793|[reobench: benchmarking robustness of earth observation foundation models](https://arxiv.org/abs/2505.16793)|[reobench](https://github.com/lx709/reobench)|
-|2505.16815|[perceptual quality assessment for embodied ai](https://arxiv.org/abs/2505.16815)|[embodiediqa](https://github.com/lcysyzxdxc/embodiediqa)|
-|2505.16850|[atr-bench: a federated learning benchmark for adaptation, trust, and reasoning](https://arxiv.org/abs/2505.16850)|[atr-bench](https://github.com/tajamul21/atr-bench)|
-|2505.16864|[training-free efficient video generation via dynamic token carving](https://arxiv.org/abs/2505.16864)|[jenga](https://github.com/dvlab-research/jenga)|
-|2505.16902|[realengine: simulating autonomous driving in realistic context](https://arxiv.org/abs/2505.16902)|[realengine](https://github.com/fudan-zvg/realengine)|
-|2505.16916|[backdoor cleaning without external guidance in mllm fine-tuning](https://arxiv.org/abs/2505.16916)|[bye](https://github.com/xuankunrong/bye)|
-|2505.16974|[openseg-r: improving open-vocabulary segmentation via step-by-step visual reasoning](https://arxiv.org/abs/2505.16974)|[openseg-r](https://github.com/hanzy1996/openseg-r)|
-|2505.16977|[incorporating visual correspondence into diffusion model for virtual try-on](https://arxiv.org/abs/2505.16977)|[spm-diff](https://github.com/hidream-ai/spm-diff)|
-|2505.16985|[extremely simple multimodal outlier synthesis for out-of-distribution detection and segmentation](https://arxiv.org/abs/2505.16985)|[featuremixing](https://github.com/mona4399/featuremixing)|
-|2505.17008|[deep mineralogical segmentation of thin section images based on qemscan maps](https://arxiv.org/abs/2505.17008)|[deep-mineralogical-segmentation](https://github.com/ltracegeo/deep-mineralogical-segmentation)|
-|2505.17011|[learning adaptive and temporally causal video tokenization in a 1d latent space](https://arxiv.org/abs/2505.17011)|[adaptok](https://github.com/visionxlab/adaptok)|
-|2505.17012|[spatialscore: towards unified evaluation for multimodal spatial understanding](https://arxiv.org/abs/2505.17012)|[SpatialScore](https://github.com/haoningwu3639/SpatialScore)|
-|2505.17017|[delving into rl for image generation with cot: a study on dpo vs. grpo](https://arxiv.org/abs/2505.17017)|[image-generation-cot](https://github.com/ziyuguo99/image-generation-cot)|
-|2505.17018|[sophiavl-r1: reinforcing mllms reasoning with thinking reward](https://arxiv.org/abs/2505.17018)|[sophiavl-r1](https://github.com/kxfan2002/sophiavl-r1)|
-|2505.17019|[let androids dream of electric sheep: a human-like image implication understanding and reasoning framework](https://arxiv.org/abs/2505.17019)|[let-androids-dream-of-electric-sheep](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)|
-|2505.17020|[crosslmm: decoupling long video sequences from lmms via dual cross-attention mechanisms](https://arxiv.org/abs/2505.17020)|[crosslmm](https://github.com/shilinyan99/crosslmm)|
-|2505.17021|[arb: a comprehensive arabic multimodal reasoning benchmark](https://arxiv.org/abs/2505.17021)|[arb](https://github.com/mbzuai-oryx/arb)|
-|2505.17022|[got-r1: unleashing reasoning capability of mllm for visual generation with reinforcement learning](https://arxiv.org/abs/2505.17022)|[got-r1](https://github.com/gogoduan/got-r1)|
 
 
 ## Archives
