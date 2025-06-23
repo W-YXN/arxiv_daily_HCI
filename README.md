@@ -16,9 +16,7 @@ The main features include:
 |2506.08010|[vision transformers don't need trained registers](https://arxiv.org/abs/2506.08010)|[test-time-registers](https://github.com/nickjiang2378/test-time-registers)|
 |2506.09042|[cosmos-drive-dreams: scalable synthetic driving data generation with world foundation models](https://arxiv.org/abs/2506.09042)|[cosmos-drive-dreams](https://github.com/nv-tlabs/cosmos-drive-dreams)|
 |2506.09881|[leveraging depth and language for open-vocabulary domain-generalized semantic segmentation](https://arxiv.org/abs/2506.09881)|[vireo](https://github.com/anonymouse-9c53tp182bvz/vireo)|
-|2506.13045|[a comprehensive survey on continual learning in generative models](https://arxiv.org/abs/2506.13045)|[awesome-continual-learning-in-generative-models](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)|
 |2506.13776|[recommendations and reporting checklist for rigorous & transparent human baselines in model evaluations](https://arxiv.org/abs/2506.13776)|[human-baselines](https://github.com/kevinlwei/human-baselines)|
-|2506.14777|[webxaii: an open-source web framework to study human-xai interaction](https://arxiv.org/abs/2506.14777)|[webxaii](https://github.com/pajean/webxaii)|
 |2506.14823|[villa: a neuro-symbolic approach for animal monitoring](https://arxiv.org/abs/2506.14823)|[ViLLa](https://github.com/HarshaKoduri123/ViLLa)|
 |2506.14842|[pictsure: pretraining embeddings matters for in-context learning image classifiers](https://arxiv.org/abs/2506.14842)|[pictsure-library](https://github.com/pictsure/pictsure-library)|
 |2506.14907|[perl: permutation-enhanced reinforcement learning for interleaved vision-language reasoning](https://arxiv.org/abs/2506.14907)|[perl](https://github.com/alchemistyzz/perl)|
@@ -31,15 +29,12 @@ The main features include:
 |2506.15201|[privacy-shielded image compression: defending against exploitation from vision-language pretrained models](https://arxiv.org/abs/2506.15201)|[psic](https://github.com/jiayinxu5499/psic)|
 |2506.15218|[dm-fnet: unified multimodal medical image fusion via diffusion process-trained encoder-decoder](https://arxiv.org/abs/2506.15218)|[dm-fnet](https://github.com/hedan-11/dm-fnet)|
 |2506.15228|[abc: adaptive bayesnet structure learning for computational scalable multi-task image compression](https://arxiv.org/abs/2506.15228)|[cbench_basic](https://github.com/worldlife123/cbench_basic)|
-|2506.15258|[privacy-preserving chest x-ray classification in latent space with homomorphically encrypted neural inference](https://arxiv.org/abs/2506.15258)|[latent-he](https://github.com/jongdory/latent-he)|
 |2506.15312|[one-shot face sketch synthesis in the wild via generative diffusion prior and instruction tuning](https://arxiv.org/abs/2506.15312)|[os-sketch](https://github.com/hanwu3125/os-sketch)|
 |2506.15313|[mapfm: foundation model-driven hd mapping with multi-task contextual learning](https://arxiv.org/abs/2506.15313)|[mapfm](https://github.com/livanoff/mapfm)|
 |2506.15365|[fedwsidd: federated whole slide image classification via dataset distillation](https://arxiv.org/abs/2506.15365)|[fedwsidd](https://github.com/f1onae/fedwsidd)|
 |2506.15368|[open-world object counting in videos](https://arxiv.org/abs/2506.15368)|[countvid](https://github.com/niki-amini-naieni/countvid)|
 |2506.15442|[hunyuan3d 2.1: from images to high-fidelity 3d assets with production-ready pbr material](https://arxiv.org/abs/2506.15442)|[hunyuan3d-2.1](https://github.com/tencent-hunyuan/hunyuan3d-2.1)|
 |2506.15499|[pixel-level certified explanations via randomized smoothing](https://arxiv.org/abs/2506.15499)|[certified-attributions](https://github.com/alaaanani/certified-attributions)|
-|2506.15564|[show-o2: improved native unified multimodal models](https://arxiv.org/abs/2506.15564)|[show-o](https://github.com/showlab/show-o)|
-|2506.15591|[one-step diffusion for detail-rich and temporally consistent video super-resolution](https://arxiv.org/abs/2506.15591)|[dloral](https://github.com/yjsunnn/dloral)|
 |2506.15682|[evolutionary caching to accelerate your off-the-shelf diffusion model](https://arxiv.org/abs/2506.15682)|[ecad](https://github.com/aniaggarwal/ecad)|
 |2506.01391|[agentcpm-gui: building mobile-use agents with reinforcement fine-tuning](https://arxiv.org/abs/2506.01391)|[AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)|
 |2506.01413|[incentivizing reasoning for advanced instruction-following of large language models](https://arxiv.org/abs/2506.01413)|[raif](https://github.com/yuleiqin/raif)|
@@ -50,7 +45,6 @@ The main features include:
 |2506.13807|[brats orchestrator : democratizing and disseminating state-of-the-art brain tumor image analysis](https://arxiv.org/abs/2506.13807)|[brats](https://github.com/brainlesion/brats)|
 |2506.14107|[déjà vu: efficient video-language query engine with learning-based inter-frame computation reuse](https://arxiv.org/abs/2506.14107)|[dejavu](https://github.com/casys-kaist/dejavu)|
 |2506.14130|[kdmos:knowledge distillation for motion segmentation](https://arxiv.org/abs/2506.14130)|[kdmos](https://github.com/scnu-rislab/kdmos)|
-|2506.14243|[cross-modal geometric hierarchy fusion: an implicit-submap driven framework for resilient 3d place recognition](https://arxiv.org/abs/2506.14243)|[CMGHF](https://github.com/HBLT-hub/CMGHF)|
 |2506.14582|[busting the paper ballot: voting meets adversarial machine learning](https://arxiv.org/abs/2506.14582)|[busting-the-ballot](https://github.com/votercenter/busting-the-ballot)|
 |2506.14605|[unsupervised imaging inverse problems with diffusion distribution matching](https://arxiv.org/abs/2506.14605)|[ddm4ip](https://github.com/inria-thoth/ddm4ip)|
 |2506.00868|[multiverse through deepfakes: the multifakeverse dataset of person-centric visual and conceptual manipulations](https://arxiv.org/abs/2506.00868)|[multifakeverse](https://github.com/parul-gupta/multifakeverse)|
@@ -62,7 +56,6 @@ The main features include:
 |2506.09482|[marrying autoregressive transformer and diffusion with multi-reference autoregression](https://arxiv.org/abs/2506.09482)|[transdiff](https://github.com/transdiff/transdiff)|
 |2506.10425|[it's not the target, it's the background: rethinking infrared small target detection via deep patch-free low-rank representations](https://arxiv.org/abs/2506.10425)|[lrrnet](https://github.com/halongbao/lrrnet)|
 |2506.10821|[videodeepresearch: long video understanding with agentic tool using](https://arxiv.org/abs/2506.10821)|[videodeepresearch](https://github.com/yhy-2000/videodeepresearch)|
-|2506.11140|[autonomous computer vision development with agentic ai](https://arxiv.org/abs/2506.11140)|[OpenManus-SimpleMind](https://github.com/jink-ucla/OpenManus-SimpleMind)|
 |2506.12214|[clip the landscape: automated tagging of crowdsourced landscape images](https://arxiv.org/abs/2506.12214)|[ClipTheLandscape](https://github.com/SpaceTimeLab/ClipTheLandscape)|
 |2506.12258|[egoprivacy: what your first-person camera says about you?](https://arxiv.org/abs/2506.12258)|[ego-privacy](https://github.com/williamium3000/ego-privacy)|
 |2506.12269|[icme 2025 grand challenge on video super-resolution for video conferencing](https://arxiv.org/abs/2506.12269)|[vsr-challenge](https://github.com/microsoft/vsr-challenge)|
@@ -96,25 +89,6 @@ The main features include:
 |2506.13685|[an llm's apology: outsourcing awkwardness in the age of ai](https://arxiv.org/abs/2506.13685)|[flake-bench](https://github.com/cloakless/flake-bench)|
 |2506.13750|[test3r: learning to reconstruct 3d at test time](https://arxiv.org/abs/2506.13750)|[test3r](https://github.com/nopqaq/test3r)|
 |2506.13757|[autovla: a vision-language-action model for end-to-end autonomous driving with adaptive reasoning and reinforcement fine-tuning](https://arxiv.org/abs/2506.13757)|[AutoVLA](https://github.com/ucla-mobility/AutoVLA)|
-|2506.00073|[the automated but risky game: modeling agent-to-agent negotiations and transactions in consumer markets](https://arxiv.org/abs/2506.00073)|[A2A-NT](https://github.com/ShenzheZhu/A2A-NT)|
-|2506.07903|[diffuse everything: multimodal diffusion models on arbitrary state spaces](https://arxiv.org/abs/2506.07903)|[diffuse-everything](https://github.com/kevinrojas1499/diffuse-everything)|
-|2506.10009|[the iris file extension](https://arxiv.org/abs/2506.10009)|[iris-codec](https://github.com/irisdigitalpathology/iris-codec)|
-|2506.10669|[pipvit: patch-based visual interpretable prototypes for retinal image analysis](https://arxiv.org/abs/2506.10669)|[pipvit](https://github.com/marziehoghbaie/pipvit)|
-|2506.10730|[iqe-clip: instance-aware query embedding for zero-/few-shot anomaly detection in medical domain](https://arxiv.org/abs/2506.10730)|[iqe-clip](https://github.com/hongh0/iqe-clip)|
-|2506.11131|[segment this thing: foveated tokenization for efficient point-prompted segmentation](https://arxiv.org/abs/2506.11131)|[segment_this_thing](https://github.com/facebookresearch/segment_this_thing)|
-|2506.11133|[monocular 3d hand pose estimation with implicit camera alignment](https://arxiv.org/abs/2506.11133)|[handrepo](https://github.com/cpantazop/handrepo)|
-|2506.11136|[jafar: jack up any feature at any resolution](https://arxiv.org/abs/2506.11136)|[jafar](https://github.com/paulcouairon/jafar)|
-|2506.11139|[grids often outperform implicit neural representations](https://arxiv.org/abs/2506.11139)|[inr-benchmark](https://github.com/voilalab/inr-benchmark)|
-|2506.11142|[farcluss: fuzzy adaptive rebalancing and contrastive uncertainty learning for semi-supervised semantic segmentation](https://arxiv.org/abs/2506.11142)|[FARCLUSS](https://github.com/psychofict/FARCLUSS)|
-|2506.11252|[anti-aliased 2d gaussian splatting](https://arxiv.org/abs/2506.11252)|[aa-2dgs](https://github.com/maeyounes/aa-2dgs)|
-|2506.11477|[fame: a lightweight spatio-temporal network for model attribution of face-swap deepfakes](https://arxiv.org/abs/2506.11477)|[FAME](https://github.com/wasim004/FAME)|
-|2506.11543|[fima-q: post-training quantization for vision transformers by fisher information matrix approximation](https://arxiv.org/abs/2506.11543)|[fima-q](https://github.com/shihewang/fima-q)|
-|2506.11661|[prohibited items segmentation via occlusion-aware bilayer modeling](https://arxiv.org/abs/2506.11661)|[occ](https://github.com/ryh1218/occ)|
-|2506.11777|[self-supervised learning of echocardiographic video representations via online cluster distillation](https://arxiv.org/abs/2506.11777)|[discovr](https://github.com/mdivyanshu97/discovr)|
-|2506.11823|[structural similarity-inspired unfolding for lightweight image super-resolution](https://arxiv.org/abs/2506.11823)|[ssiu](https://github.com/eezkni/ssiu)|
-|2506.11827|[auditory-tactile congruence for synthesis of adaptive pain expressions in robopatients](https://arxiv.org/abs/2506.11827)|[submission_codes](https://github.com/nsaitarun-git/submission_codes)|
-|2506.11989|[simple radiology vllm test-time scaling with thought graph traversal](https://arxiv.org/abs/2506.11989)|[Thought-Graph-Traversal](https://github.com/glerium/Thought-Graph-Traversal)|
-|2506.12007|[simshift: a benchmark for adapting neural surrogates to distribution shifts](https://arxiv.org/abs/2506.12007)|[simshift](https://github.com/psetinek/simshift)|
 
 
 ## Archives
