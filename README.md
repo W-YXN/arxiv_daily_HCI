@@ -13,13 +13,63 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2506.01444|[variance-based defense against blended backdoor attacks](https://arxiv.org/abs/2506.01444)|[BackdoorBench](https://github.com/Orange-OpenSource/BackdoorBench)|
+|2506.06561|[lamp-cap: personalized figure caption generation with multimodal figure profiles](https://arxiv.org/abs/2506.06561)|[lamp-cap](https://github.com/crowd-ai-lab/lamp-cap)|
+|2506.09399|[improving out-of-distribution detection via dynamic covariance calibration](https://arxiv.org/abs/2506.09399)|[ooddcc](https://github.com/workerbcd/ooddcc)|
+|2506.09965|[reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing](https://arxiv.org/abs/2506.09965)|[vilasr](https://github.com/antresearchnlp/vilasr)|
+|2506.10730|[iqe-clip: instance-aware query embedding for zero-/few-shot anomaly detection in medical domain](https://arxiv.org/abs/2506.10730)|[iqe-clip](https://github.com/hongh0/iqe-clip)|
+|2506.11140|[autonomous computer vision development with agentic ai](https://arxiv.org/abs/2506.11140)|[OpenManus-SimpleMind](https://github.com/jink-ucla/OpenManus-SimpleMind)|
+|2506.11302|[tardis stride: a spatio-temporal road image dataset and world model for autonomy](https://arxiv.org/abs/2506.11302)|[tardis](https://github.com/tera-ai/tardis)|
+|2506.12400|[perceptual-gs: scene-adaptive perceptual densification for gaussian splatting](https://arxiv.org/abs/2506.12400)|[perceptual-gs](https://github.com/eezkni/perceptual-gs)|
+|2506.13045|[a comprehensive survey on continual learning in generative models](https://arxiv.org/abs/2506.13045)|[awesome-continual-learning-in-generative-models](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)|
+|2506.14243|[cross-modal geometric hierarchy fusion: an implicit-submap driven framework for resilient 3d place recognition](https://arxiv.org/abs/2506.14243)|[CMGHF](https://github.com/HBLT-hub/CMGHF)|
+|2506.14777|[webxaii: an open-source web framework to study human-xai interaction](https://arxiv.org/abs/2506.14777)|[webxaii](https://github.com/pajean/webxaii)|
+|2506.15258|[privacy-preserving chest x-ray classification in latent space with homomorphically encrypted neural inference](https://arxiv.org/abs/2506.15258)|[latent-he](https://github.com/jongdory/latent-he)|
+|2506.15564|[show-o2: improved native unified multimodal models](https://arxiv.org/abs/2506.15564)|[show-o](https://github.com/showlab/show-o)|
+|2506.15591|[one-step diffusion for detail-rich and temporally consistent video super-resolution](https://arxiv.org/abs/2506.15591)|[dloral](https://github.com/yjsunnn/dloral)|
+|2506.15711|[shadow defense against gradient inversion attack in federated learning](https://arxiv.org/abs/2506.15711)|[ShadowDef](https://github.com/tekap404/ShadowDef)|
+|2506.15860|[user-guided force-directed graph layout](https://arxiv.org/abs/2506.15860)|[uggly](https://github.com/sciluna/uggly)|
+|2506.15940|[polyline path masked attention for vision transformer](https://arxiv.org/abs/2506.15940)|[ppma](https://github.com/zhongchenzhao/ppma)|
+|2506.15980|[advanced sign language video generation with compressed and quantized multi-condition tokenization](https://arxiv.org/abs/2506.15980)|[signvip](https://github.com/umnooob/signvip)|
+|2506.15988|[adversarial attacks and detection in visual place recognition for safer robot navigation](https://arxiv.org/abs/2506.15988)|[aarapsiproject](https://github.com/QVPR/aarapsiproject)|
+|2506.16017|[endomust: monocular depth estimation for robotic endoscopy via end-to-end multi-step self-supervised training](https://arxiv.org/abs/2506.16017)|[endomust](https://github.com/baymaxshao/endomust)|
+|2506.16073|[td3net: a temporal densely connected multi-dilated convolutional network for lipreading](https://arxiv.org/abs/2506.16073)|[td3net-a-temporal-densely-connected-multi-dilated-convolutional-network-for-lipreading](https://github.com/leebh-kor/td3net-a-temporal-densely-connected-multi-dilated-convolutional-network-for-lipreading)|
+|2506.16141|[grpo-care: consistency-aware reinforcement learning for multimodal reasoning](https://arxiv.org/abs/2506.16141)|[grpo-care](https://github.com/tencentarc/grpo-care)|
+|2506.16209|[videogan-based trajectory proposal for automated vehicles](https://arxiv.org/abs/2506.16209)|[video-gan-trajectories](https://github.com/ajmariani/video-gan-trajectories)|
+|2506.16265|[dense 3d displacement estimation for landslide monitoring via fusion of tls point clouds and embedded rgb images](https://arxiv.org/abs/2506.16265)|[fusion4landslide](https://github.com/zhaoyiww/fusion4landslide)|
+|2506.16349|[watermarking autoregressive image generation](https://arxiv.org/abs/2506.16349)|[wmar](https://github.com/facebookresearch/wmar)|
+|2506.16353|[mambahash: visual state space deep hashing model for large-scale image retrieval](https://arxiv.org/abs/2506.16353)|[mambahash](https://github.com/shuaichaochao/mambahash)|
+|2506.16371|[agc-drive: a large-scale dataset for real-world aerial-ground collaboration in driving scenarios](https://arxiv.org/abs/2506.16371)|[agc-drive](https://github.com/percepx/agc-drive)|
+|2506.16398|[hyperpath: knowledge-guided hyperbolic semantic hierarchy modeling for wsi analysis](https://arxiv.org/abs/2506.16398)|[hyperpath](https://github.com/lambert-hpx/hyperpath)|
+|2506.16401|[trajscenellm: a multimodal perspective on semantic gps trajectory analysis](https://arxiv.org/abs/2506.16401)|[trajscenellm](https://github.com/februarysea/trajscenellm)|
+|2506.16504|[hunyuan3d 2.5: towards high-fidelity 3d assets generation with ultimate details](https://arxiv.org/abs/2506.16504)|[hunyuan3d-2](https://github.com/tencent/hunyuan3d-2)|
+|2506.16572|[diffo: single-step diffusion for image compression at ultra-low bitrates](https://arxiv.org/abs/2506.16572)|[diffo](https://github.com/freemasti/diffo)|
+|2506.16643|[see what i mean? expressiveness and clarity in robot display design](https://arxiv.org/abs/2506.16643)|[huamn_cozmo_interaction](https://github.com/mattufts/huamn_cozmo_interaction)|
+|2506.16728|[few-shot generalized category discovery with retrieval-guided decision boundary enhancement](https://arxiv.org/abs/2506.16728)|[fsgcd](https://github.com/ryh1218/fsgcd)|
+|2506.16743|[noise-informed diffusion-generated image detection with anomaly attention](https://arxiv.org/abs/2506.16743)|[nasa-swin](https://github.com/weinanguan/nasa-swin)|
+|2506.16819|[loupe: a generalizable and adaptive framework for image forgery detection](https://arxiv.org/abs/2506.16819)|[loupe](https://github.com/kamichanw/loupe)|
+|2506.16842|[camera calibration via circular patterns: a comprehensive framework with measurement uncertainty and unbiased projection model](https://arxiv.org/abs/2506.16842)|[discocal](https://github.com/chaehyeonsong/discocal)|
+|2506.16856|[parkformer: a transformer-based parking policy with goal embedding and pedestrian-aware control](https://arxiv.org/abs/2506.16856)|[parkformer](https://github.com/little-snail-f/parkformer)|
+|2506.16940|[lunarloc: segment-based global localization on the moon](https://arxiv.org/abs/2506.16940)|[lunarloc-data](https://github.com/mit-acl/lunarloc-data)|
+|2506.16960|[visual-instructed degradation diffusion for all-in-one image restoration](https://arxiv.org/abs/2506.16960)|[defusion](https://github.com/luowyang/defusion)|
+|2506.16962|[enhancing step-by-step and verifiable medical reasoning in mllms](https://arxiv.org/abs/2506.16962)|[chiron-o1](https://github.com/manglu097/chiron-o1)|
+|2506.17113|[mexa: towards general multimodal reasoning with dynamic multi-expert aggregation](https://arxiv.org/abs/2506.17113)|[mexa](https://github.com/yui010206/mexa)|
+|2506.17119|[rgbtrack: fast, robust depth-free 6d pose estimation and tracking](https://arxiv.org/abs/2506.17119)|[rgbtrack](https://github.com/greatenanoymous/rgbtrack)|
+|2506.17159|[co-seg++: mutual prompt-guided collaborative learning for versatile medical segmentation](https://arxiv.org/abs/2506.17159)|[co-seg-plus](https://github.com/xq141839/co-seg-plus)|
+|2506.17186|[yasmot: yet another stereo image multi-object tracker](https://arxiv.org/abs/2506.17186)|[yasmot](https://github.com/ketil-malde/yasmot)|
+|2506.17196|[detecting llm-generated short answers and effects on learner performance](https://arxiv.org/abs/2506.17196)|[ai-detection](https://github.com/shambhavib20/ai-detection)|
+|2506.17202|[unifork: exploring modality alignment for unified multimodal understanding and generation](https://arxiv.org/abs/2506.17202)|[unifork](https://github.com/tliby/unifork)|
+|2506.17213|[long-term traffic simulation with interleaved autoregressive motion and scenario generation](https://arxiv.org/abs/2506.17213)|[infgen](https://github.com/orangesodahub/infgen)|
+|2506.17218|[machine mental imagery: empower multimodal reasoning with latent visual tokens](https://arxiv.org/abs/2506.17218)|[mirage](https://github.com/umass-embodied-agi/mirage)|
 |2506.08010|[vision transformers don't need trained registers](https://arxiv.org/abs/2506.08010)|[test-time-registers](https://github.com/nickjiang2378/test-time-registers)|
 |2506.09042|[cosmos-drive-dreams: scalable synthetic driving data generation with world foundation models](https://arxiv.org/abs/2506.09042)|[cosmos-drive-dreams](https://github.com/nv-tlabs/cosmos-drive-dreams)|
 |2506.09881|[leveraging depth and language for open-vocabulary domain-generalized semantic segmentation](https://arxiv.org/abs/2506.09881)|[vireo](https://github.com/anonymouse-9c53tp182bvz/vireo)|
 |2506.13776|[recommendations and reporting checklist for rigorous & transparent human baselines in model evaluations](https://arxiv.org/abs/2506.13776)|[human-baselines](https://github.com/kevinlwei/human-baselines)|
+|2506.14696|[yolov11-rgbt: towards a comprehensive single-stage multispectral object detection framework](https://arxiv.org/abs/2506.14696)|[yolov11-rgbt](https://github.com/wandahangfy/yolov11-rgbt)|
 |2506.14823|[villa: a neuro-symbolic approach for animal monitoring](https://arxiv.org/abs/2506.14823)|[ViLLa](https://github.com/HarshaKoduri123/ViLLa)|
 |2506.14842|[pictsure: pretraining embeddings matters for in-context learning image classifiers](https://arxiv.org/abs/2506.14842)|[pictsure-library](https://github.com/pictsure/pictsure-library)|
 |2506.14907|[perl: permutation-enhanced reinforcement learning for interleaved vision-language reasoning](https://arxiv.org/abs/2506.14907)|[perl](https://github.com/alchemistyzz/perl)|
+|2506.14934|[vision transformers for end-to-end quark-gluon jet classification from calorimeter images](https://arxiv.org/abs/2506.14934)|[particle_reconstruction](https://github.com/abrar2652/particle_reconstruction)|
 |2506.15078|[enhancing vector quantization with distributional matching: a theoretical and empirical study](https://arxiv.org/abs/2506.15078)|[wasserstein-vq](https://github.com/vq-research/wasserstein-vq)|
 |2506.15084|[an empirical study of bugs in data visualization libraries](https://arxiv.org/abs/2506.15084)|[dataviz-lib-bugs](https://github.com/williamlus/dataviz-lib-bugs)|
 |2506.15154|[sonicverse: multi-task learning for music feature-informed captioning](https://arxiv.org/abs/2506.15154)|[sonicverse](https://github.com/amaai-lab/sonicverse)|
@@ -35,60 +85,34 @@ The main features include:
 |2506.15368|[open-world object counting in videos](https://arxiv.org/abs/2506.15368)|[countvid](https://github.com/niki-amini-naieni/countvid)|
 |2506.15442|[hunyuan3d 2.1: from images to high-fidelity 3d assets with production-ready pbr material](https://arxiv.org/abs/2506.15442)|[hunyuan3d-2.1](https://github.com/tencent-hunyuan/hunyuan3d-2.1)|
 |2506.15499|[pixel-level certified explanations via randomized smoothing](https://arxiv.org/abs/2506.15499)|[certified-attributions](https://github.com/alaaanani/certified-attributions)|
+|2506.15571|[microricci: a greedy and local ricci flow solver for self-tuning mesh smoothing](https://arxiv.org/abs/2506.15571)|[microricci](https://github.com/csplevuanh/microricci)|
 |2506.15682|[evolutionary caching to accelerate your off-the-shelf diffusion model](https://arxiv.org/abs/2506.15682)|[ecad](https://github.com/aniaggarwal/ecad)|
 |2506.01391|[agentcpm-gui: building mobile-use agents with reinforcement fine-tuning](https://arxiv.org/abs/2506.01391)|[AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)|
 |2506.01413|[incentivizing reasoning for advanced instruction-following of large language models](https://arxiv.org/abs/2506.01413)|[raif](https://github.com/yuleiqin/raif)|
 |2506.07917|[speedy deformable 3d gaussian splatting: fast rendering and compression of dynamic scenes](https://arxiv.org/abs/2506.07917)|[speede3dgs](https://github.com/tuallen/speede3dgs)|
 |2506.08915|[inherently faithful attention maps for vision transformers](https://arxiv.org/abs/2506.08915)|[ifam](https://github.com/ananthu-aniraj/ifam)|
+|2506.09081|[flagevalmm: a flexible framework for comprehensive multimodal model evaluation](https://arxiv.org/abs/2506.09081)|[flagevalmm](https://github.com/flageval-baai/flagevalmm)|
 |2506.11154|[slrnet: a real-time lstm-based sign language recognition system](https://arxiv.org/abs/2506.11154)|[SLRNet](https://github.com/Khushi-739/SLRNet)|
+|2506.13277|[seqpe: transformer with sequential position encoding](https://arxiv.org/abs/2506.13277)|[seqpe](https://github.com/ghrua/seqpe)|
+|2506.13444|[self-supervised enhancement for depth from a lightweight tof sensor with monocular images](https://arxiv.org/abs/2506.13444)|[selftof](https://github.com/denyingmxd/selftof)|
 |2506.13657|[lecture video visual objects (lvvo) dataset: a benchmark for visual object detection in educational videos](https://arxiv.org/abs/2506.13657)|[lvvo_dataset](https://github.com/dipayan1109033/lvvo_dataset)|
 |2506.13807|[brats orchestrator : democratizing and disseminating state-of-the-art brain tumor image analysis](https://arxiv.org/abs/2506.13807)|[brats](https://github.com/brainlesion/brats)|
+|2506.14035|[simpledoc: multi-modal document understanding with dual-cue page retrieval and iterative refinement](https://arxiv.org/abs/2506.14035)|[simpledoc](https://github.com/ag2ai/simpledoc)|
 |2506.14107|[déjà vu: efficient video-language query engine with learning-based inter-frame computation reuse](https://arxiv.org/abs/2506.14107)|[dejavu](https://github.com/casys-kaist/dejavu)|
 |2506.14130|[kdmos:knowledge distillation for motion segmentation](https://arxiv.org/abs/2506.14130)|[kdmos](https://github.com/scnu-rislab/kdmos)|
+|2506.14136|[interpreting biomedical vlms on high-imbalance out-of-distributions: an insight into biomedclip on radiology](https://arxiv.org/abs/2506.14136)|[biovlm_eval_cxr](https://github.com/nafiz95/biovlm_eval_cxr)|
+|2506.14356|[eva02-at: egocentric video-language understanding with spatial-temporal rotary positional embeddings and symmetric optimization](https://arxiv.org/abs/2506.14356)|[eva02-at](https://github.com/xqwang14/eva02-at)|
+|2506.14362|[hydrochronos: forecasting decades of surface water change](https://arxiv.org/abs/2506.14362)|[hydro-chronos](https://github.com/darthreca/hydro-chronos)|
+|2506.14404|[causally steered diffusion for automated video counterfactual generation](https://arxiv.org/abs/2506.14404)|[counterfactual-video-generation](https://github.com/nysp78/counterfactual-video-generation)|
+|2506.14451|[adapting lightweight vision language models for radiological visual question answering](https://arxiv.org/abs/2506.14451)|[medm](https://github.com/adishourya/medm)|
+|2506.14473|[foundation model insights and a multi-model approach for superior fine-grained one-shot subset selection](https://arxiv.org/abs/2506.14473)|[ram-apl](https://github.com/zhijingwan/ram-apl)|
+|2506.14511|[mol: joint estimation of micro-expression, optical flow, and landmark via transformer-graph-style convolution](https://arxiv.org/abs/2506.14511)|[mol](https://github.com/cyf-cuber/mol)|
 |2506.14582|[busting the paper ballot: voting meets adversarial machine learning](https://arxiv.org/abs/2506.14582)|[busting-the-ballot](https://github.com/votercenter/busting-the-ballot)|
+|2506.14596|[posegraf: geometric-reinforced adaptive fusion for monocular 3d human pose estimation](https://arxiv.org/abs/2506.14596)|[posegraf](https://github.com/icitylab/posegraf)|
 |2506.14605|[unsupervised imaging inverse problems with diffusion distribution matching](https://arxiv.org/abs/2506.14605)|[ddm4ip](https://github.com/inria-thoth/ddm4ip)|
-|2506.00868|[multiverse through deepfakes: the multifakeverse dataset of person-centric visual and conceptual manipulations](https://arxiv.org/abs/2506.00868)|[multifakeverse](https://github.com/parul-gupta/multifakeverse)|
-|2506.03662|[zero-shot temporal interaction localization for egocentric videos](https://arxiv.org/abs/2506.03662)|[egoloc](https://github.com/irmvlab/egoloc)|
-|2506.05633|[noninvasive precision modulation of high-level neural population activity via natural vision perturbations](https://arxiv.org/abs/2506.05633)|[directionalneuralmodulation](https://github.com/ggaziv/directionalneuralmodulation)|
-|2506.06962|[ar-rag: autoregressive retrieval augmentation for image generation](https://arxiv.org/abs/2506.06962)|[AR-RAG](https://github.com/PLUM-Lab/AR-RAG)|
-|2506.07327|[case: contrastive activation for saliency estimation](https://arxiv.org/abs/2506.07327)|[case-saliency](https://github.com/dwil2444/case-saliency)|
-|2506.08185|[agentic surgical ai: surgeon style fingerprinting and privacy risk quantification via discrete diffusion in a vision-language-action framework](https://arxiv.org/abs/2506.08185)|[surgeon_style_fingerprinting](https://github.com/huixin-zhan-ai/surgeon_style_fingerprinting)|
-|2506.09482|[marrying autoregressive transformer and diffusion with multi-reference autoregression](https://arxiv.org/abs/2506.09482)|[transdiff](https://github.com/transdiff/transdiff)|
-|2506.10425|[it's not the target, it's the background: rethinking infrared small target detection via deep patch-free low-rank representations](https://arxiv.org/abs/2506.10425)|[lrrnet](https://github.com/halongbao/lrrnet)|
-|2506.10821|[videodeepresearch: long video understanding with agentic tool using](https://arxiv.org/abs/2506.10821)|[videodeepresearch](https://github.com/yhy-2000/videodeepresearch)|
-|2506.12214|[clip the landscape: automated tagging of crowdsourced landscape images](https://arxiv.org/abs/2506.12214)|[ClipTheLandscape](https://github.com/SpaceTimeLab/ClipTheLandscape)|
-|2506.12258|[egoprivacy: what your first-person camera says about you?](https://arxiv.org/abs/2506.12258)|[ego-privacy](https://github.com/williamium3000/ego-privacy)|
-|2506.12269|[icme 2025 grand challenge on video super-resolution for video conferencing](https://arxiv.org/abs/2506.12269)|[vsr-challenge](https://github.com/microsoft/vsr-challenge)|
-|2506.12295|[matchplant: an open-source pipeline for uav-based single-plant detection and data extraction](https://arxiv.org/abs/2506.12295)|[MatchPlant](https://github.com/JacobWashburn-USDA/MatchPlant)|
-|2506.12339|[sheetmind: an end-to-end llm-powered multi-agent framework for spreadsheet automation](https://arxiv.org/abs/2506.12339)|[excel-agent](https://github.com/colonel-aureliano/excel-agent)|
-|2506.12348|[real-time per-garment virtual try-on with temporal consistency for loose-fitting garments](https://arxiv.org/abs/2506.12348)|[RTV](https://github.com/ZaiqiangWu/RTV)|
-|2506.12356|[splashnet: split-and-share encoders for accurate and efficient typing with surface electromyography](https://arxiv.org/abs/2506.12356)|[splashnet](https://github.com/nhadidi/splashnet)|
-|2506.12413|[domain generalization for person re-identification: a survey towards domain-agnostic person matching](https://arxiv.org/abs/2506.12413)|[awesome-domain-generalizable-person-re-id](https://github.com/perceptualai-lab/awesome-domain-generalizable-person-re-id)|
-|2506.12430|[pushing the limits of safety: a technical report on the atlas challenge 2025](https://arxiv.org/abs/2506.12430)|[atlas_challenge_2025](https://github.com/ny1024/atlas_challenge_2025)|
-|2506.12524|[inference-time gaze refinement for micro-expression recognition: enhancing event-based eye tracking with motion-aware post-processing](https://arxiv.org/abs/2506.12524)|[eyelorin](https://github.com/eye-tracking-for-physiological-sensing/eyelorin)|
-|2506.12541|[bsa: ball sparse attention for large-scale geometries](https://arxiv.org/abs/2506.12541)|[bsa](https://github.com/britacatalin/bsa)|
-|2506.12610|[oscnet v1.5: energy efficient hopfield network on cmos oscillators for image classification](https://arxiv.org/abs/2506.12610)|[oscnet](https://github.com/russrobin/oscnet)|
-|2506.12683|[evaluating cell type inference in vision language models under varying visual context](https://arxiv.org/abs/2506.12683)|[vlmcce](https://github.com/a12dongithub/vlmcce)|
-|2506.12693|[zero-shot denoising via neural compression: theoretical and algorithmic framework](https://arxiv.org/abs/2506.12693)|[zs-ncdenoiser](https://github.com/computational-imaging-ru/zs-ncdenoiser)|
-|2506.12935|[soundmind: rl-incentivized logic reasoning for audio-language models](https://arxiv.org/abs/2506.12935)|[soundmind](https://github.com/xid32/soundmind)|
-|2506.12992|[smarthome-bench: a comprehensive benchmark for video anomaly detection in smart homes using multi-modal large language models](https://arxiv.org/abs/2506.12992)|[smarthome-bench-llm](https://github.com/xinyi-0724/smarthome-bench-llm)|
-|2506.13001|[personalizable long-context symbolic music infilling with midi-rwkv](https://arxiv.org/abs/2506.13001)|[midi-rwkv](https://github.com/christianazinn/midi-rwkv)|
-|2506.13027|[detrpose: real-time end-to-end transformer model for multi-person pose estimation](https://arxiv.org/abs/2506.13027)|[DETRPose](https://github.com/SebastianJanampa/DETRPose)|
-|2506.13051|[stress-testing multimodal foundation models for crystallographic reasoning](https://arxiv.org/abs/2506.13051)|[stresstestingmmfmincr](https://github.com/kurbanintelligencelab/stresstestingmmfmincr)|
-|2506.13089|[superpoint-slam3: augmenting orb-slam3 with deep features, adaptive nms, and learning-based loop closure](https://arxiv.org/abs/2506.13089)|[superpointslam3](https://github.com/shahram95/superpointslam3)|
-|2506.13160|[certdw: towards certified dataset ownership verification via conformal prediction](https://arxiv.org/abs/2506.13160)|[certdw](https://github.com/ncepuqiaoting/certdw)|
-|2506.13260|[come: adding scene-centric forecasting control to occupancy world model](https://arxiv.org/abs/2506.13260)|[come](https://github.com/synsin0/come)|
-|2506.13275|[the transition matrix -- a classification of navigational patterns between lms course sections](https://arxiv.org/abs/2506.13275)|[Transition-Matrix](https://github.com/TobiasHildebrandt/Transition-Matrix)|
-|2506.13326|[vis-shepherd: constructing critic for llm-based data visualization generation](https://arxiv.org/abs/2506.13326)|[vis-shepherd](https://github.com/bopan3/vis-shepherd)|
-|2506.13348|[texturesplat: per-primitive texture mapping for reflective gaussian splatting](https://arxiv.org/abs/2506.13348)|[texturesplat](https://github.com/maeyounes/texturesplat)|
-|2506.13387|[tr2m: transferring monocular relative depth to metric depth with language descriptions and scale-oriented contrast](https://arxiv.org/abs/2506.13387)|[tr2m](https://github.com/beileicui/tr2m)|
-|2506.13415|[simple is what you need for efficient and accurate medical image segmentation](https://arxiv.org/abs/2506.13415)|[simpleunet](https://github.com/frankyu5666666/simpleunet)|
-|2506.13465|[sa-lut: spatial adaptive 4d look-up table for photorealistic style transfer](https://arxiv.org/abs/2506.13465)|[sa-lut](https://github.com/ry3ng/sa-lut)|
-|2506.13516|[micro-macro gaussian splatting with enhanced scalability for unconstrained scene reconstruction](https://arxiv.org/abs/2506.13516)|[smw-gs](https://github.com/kidleyh/smw-gs)|
-|2506.13642|[stream-omni: simultaneous multimodal interactions with large language-vision-speech model](https://arxiv.org/abs/2506.13642)|[stream-omni](https://github.com/ictnlp/stream-omni)|
-|2506.13685|[an llm's apology: outsourcing awkwardness in the age of ai](https://arxiv.org/abs/2506.13685)|[flake-bench](https://github.com/cloakless/flake-bench)|
-|2506.13750|[test3r: learning to reconstruct 3d at test time](https://arxiv.org/abs/2506.13750)|[test3r](https://github.com/nopqaq/test3r)|
-|2506.13757|[autovla: a vision-language-action model for end-to-end autonomous driving with adaptive reasoning and reinforcement fine-tuning](https://arxiv.org/abs/2506.13757)|[AutoVLA](https://github.com/ucla-mobility/AutoVLA)|
+|2506.14629|[vistext-mosquito: a multimodal dataset and benchmark for ai-based mosquito breeding site detection and reasoning](https://arxiv.org/abs/2506.14629)|[vistext-mosquito](https://github.com/adnanul-islam-jisun/vistext-mosquito)|
+|2506.14642|[3dgs-ieval-15k: a large-scale image quality evaluation database for 3d gaussian-splatting](https://arxiv.org/abs/2506.14642)|[3dgs-ieval-15k](https://github.com/yukexing/3dgs-ieval-15k)|
+|2506.14765|[scaling-up the pretraining of the earth observation foundation model phileo to the majortom dataset](https://arxiv.org/abs/2506.14765)|[PhilEO-MajorTOM](https://github.com/ESA-PhiLab/PhilEO-MajorTOM)|
 
 
 ## Archives
