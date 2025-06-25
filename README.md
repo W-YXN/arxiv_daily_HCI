@@ -13,9 +13,18 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2506.11142|[farcluss: fuzzy adaptive rebalancing and contrastive uncertainty learning for semi-supervised semantic segmentation](https://arxiv.org/abs/2506.11142)|[FARCLUSS](https://github.com/psychofict/FARCLUSS)|
+|2506.12524|[inference-time gaze refinement for micro-expression recognition: enhancing event-based eye tracking with motion-aware post-processing](https://arxiv.org/abs/2506.12524)|[eyelorin](https://github.com/eye-tracking-for-physiological-sensing/eyelorin)|
+|2506.13642|[stream-omni: simultaneous multimodal interactions with large language-vision-speech model](https://arxiv.org/abs/2506.13642)|[stream-omni](https://github.com/ictnlp/stream-omni)|
+|2506.15698|[global context-aware representation learning for spatially resolved transcriptomics](https://arxiv.org/abs/2506.15698)|[spotscape](https://github.com/yunhak0/spotscape)|
+|2506.16262|[r3evision: a survey on robust rendering, restoration, and enhancement for 3d low-level vision](https://arxiv.org/abs/2506.16262)|[awesome-3d-low-level-vision](https://github.com/cmlab-korea/awesome-3d-low-level-vision)|
+|2506.16318|[segment anything for satellite imagery: a strong baseline and a regional dataset for automatic field delineation](https://arxiv.org/abs/2506.16318)|[eras-dataset](https://github.com/cscribano/eras-dataset)|
+|2506.16784|[textbrats: text-guided volumetric brain tumor segmentation with innovative dataset development and fusion module exploration](https://arxiv.org/abs/2506.16784)|[textbrats](https://github.com/jupitern52/textbrats)|
+|2506.16796|[realsr-r1: reinforcement learning for real-world image super-resolution with vision-language chain-of-thought](https://arxiv.org/abs/2506.16796)|[realsr-r1](https://github.com/junboooo/realsr-r1)|
+|2506.17101|[multi-label scene classification for autonomous vehicles: acquiring and accumulating knowledge from diverse datasets](https://arxiv.org/abs/2506.17101)|[kaa-cal](https://github.com/kelisbu/kaa-cal)|
+|2506.17220|[emergent temporal correspondences from video diffusion transformers](https://arxiv.org/abs/2506.17220)|[DiffTrack](https://github.com/cvlab-kaist/DiffTrack)|
 |2506.01444|[variance-based defense against blended backdoor attacks](https://arxiv.org/abs/2506.01444)|[BackdoorBench](https://github.com/Orange-OpenSource/BackdoorBench)|
 |2506.06561|[lamp-cap: personalized figure caption generation with multimodal figure profiles](https://arxiv.org/abs/2506.06561)|[lamp-cap](https://github.com/crowd-ai-lab/lamp-cap)|
-|2506.09399|[improving out-of-distribution detection via dynamic covariance calibration](https://arxiv.org/abs/2506.09399)|[ooddcc](https://github.com/workerbcd/ooddcc)|
 |2506.09965|[reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing](https://arxiv.org/abs/2506.09965)|[vilasr](https://github.com/antresearchnlp/vilasr)|
 |2506.10730|[iqe-clip: instance-aware query embedding for zero-/few-shot anomaly detection in medical domain](https://arxiv.org/abs/2506.10730)|[iqe-clip](https://github.com/hongh0/iqe-clip)|
 |2506.11140|[autonomous computer vision development with agentic ai](https://arxiv.org/abs/2506.11140)|[OpenManus-SimpleMind](https://github.com/jink-ucla/OpenManus-SimpleMind)|
@@ -76,7 +85,6 @@ The main features include:
 |2506.15160|[enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation](https://arxiv.org/abs/2506.15160)|[pointdistribution](https://github.com/agent9717/pointdistribution)|
 |2506.15182|[classification of multi-parametric body mri series using deep learning](https://arxiv.org/abs/2506.15182)|[mri_classifier](https://github.com/boahk/mri_classifier)|
 |2506.15200|[conquering the retina: bringing visual in-context learning to oct](https://arxiv.org/abs/2506.15200)|[thesis-visual-in-context-learning](https://github.com/negralessio/thesis-visual-in-context-learning)|
-|2506.15201|[privacy-shielded image compression: defending against exploitation from vision-language pretrained models](https://arxiv.org/abs/2506.15201)|[psic](https://github.com/jiayinxu5499/psic)|
 |2506.15218|[dm-fnet: unified multimodal medical image fusion via diffusion process-trained encoder-decoder](https://arxiv.org/abs/2506.15218)|[dm-fnet](https://github.com/hedan-11/dm-fnet)|
 |2506.15228|[abc: adaptive bayesnet structure learning for computational scalable multi-task image compression](https://arxiv.org/abs/2506.15228)|[cbench_basic](https://github.com/worldlife123/cbench_basic)|
 |2506.15312|[one-shot face sketch synthesis in the wild via generative diffusion prior and instruction tuning](https://arxiv.org/abs/2506.15312)|[os-sketch](https://github.com/hanwu3125/os-sketch)|
@@ -87,32 +95,6 @@ The main features include:
 |2506.15499|[pixel-level certified explanations via randomized smoothing](https://arxiv.org/abs/2506.15499)|[certified-attributions](https://github.com/alaaanani/certified-attributions)|
 |2506.15571|[microricci: a greedy and local ricci flow solver for self-tuning mesh smoothing](https://arxiv.org/abs/2506.15571)|[microricci](https://github.com/csplevuanh/microricci)|
 |2506.15682|[evolutionary caching to accelerate your off-the-shelf diffusion model](https://arxiv.org/abs/2506.15682)|[ecad](https://github.com/aniaggarwal/ecad)|
-|2506.01391|[agentcpm-gui: building mobile-use agents with reinforcement fine-tuning](https://arxiv.org/abs/2506.01391)|[AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)|
-|2506.01413|[incentivizing reasoning for advanced instruction-following of large language models](https://arxiv.org/abs/2506.01413)|[raif](https://github.com/yuleiqin/raif)|
-|2506.07917|[speedy deformable 3d gaussian splatting: fast rendering and compression of dynamic scenes](https://arxiv.org/abs/2506.07917)|[speede3dgs](https://github.com/tuallen/speede3dgs)|
-|2506.08915|[inherently faithful attention maps for vision transformers](https://arxiv.org/abs/2506.08915)|[ifam](https://github.com/ananthu-aniraj/ifam)|
-|2506.09081|[flagevalmm: a flexible framework for comprehensive multimodal model evaluation](https://arxiv.org/abs/2506.09081)|[flagevalmm](https://github.com/flageval-baai/flagevalmm)|
-|2506.11154|[slrnet: a real-time lstm-based sign language recognition system](https://arxiv.org/abs/2506.11154)|[SLRNet](https://github.com/Khushi-739/SLRNet)|
-|2506.13277|[seqpe: transformer with sequential position encoding](https://arxiv.org/abs/2506.13277)|[seqpe](https://github.com/ghrua/seqpe)|
-|2506.13444|[self-supervised enhancement for depth from a lightweight tof sensor with monocular images](https://arxiv.org/abs/2506.13444)|[selftof](https://github.com/denyingmxd/selftof)|
-|2506.13657|[lecture video visual objects (lvvo) dataset: a benchmark for visual object detection in educational videos](https://arxiv.org/abs/2506.13657)|[lvvo_dataset](https://github.com/dipayan1109033/lvvo_dataset)|
-|2506.13807|[brats orchestrator : democratizing and disseminating state-of-the-art brain tumor image analysis](https://arxiv.org/abs/2506.13807)|[brats](https://github.com/brainlesion/brats)|
-|2506.14035|[simpledoc: multi-modal document understanding with dual-cue page retrieval and iterative refinement](https://arxiv.org/abs/2506.14035)|[simpledoc](https://github.com/ag2ai/simpledoc)|
-|2506.14107|[déjà vu: efficient video-language query engine with learning-based inter-frame computation reuse](https://arxiv.org/abs/2506.14107)|[dejavu](https://github.com/casys-kaist/dejavu)|
-|2506.14130|[kdmos:knowledge distillation for motion segmentation](https://arxiv.org/abs/2506.14130)|[kdmos](https://github.com/scnu-rislab/kdmos)|
-|2506.14136|[interpreting biomedical vlms on high-imbalance out-of-distributions: an insight into biomedclip on radiology](https://arxiv.org/abs/2506.14136)|[biovlm_eval_cxr](https://github.com/nafiz95/biovlm_eval_cxr)|
-|2506.14356|[eva02-at: egocentric video-language understanding with spatial-temporal rotary positional embeddings and symmetric optimization](https://arxiv.org/abs/2506.14356)|[eva02-at](https://github.com/xqwang14/eva02-at)|
-|2506.14362|[hydrochronos: forecasting decades of surface water change](https://arxiv.org/abs/2506.14362)|[hydro-chronos](https://github.com/darthreca/hydro-chronos)|
-|2506.14404|[causally steered diffusion for automated video counterfactual generation](https://arxiv.org/abs/2506.14404)|[counterfactual-video-generation](https://github.com/nysp78/counterfactual-video-generation)|
-|2506.14451|[adapting lightweight vision language models for radiological visual question answering](https://arxiv.org/abs/2506.14451)|[medm](https://github.com/adishourya/medm)|
-|2506.14473|[foundation model insights and a multi-model approach for superior fine-grained one-shot subset selection](https://arxiv.org/abs/2506.14473)|[ram-apl](https://github.com/zhijingwan/ram-apl)|
-|2506.14511|[mol: joint estimation of micro-expression, optical flow, and landmark via transformer-graph-style convolution](https://arxiv.org/abs/2506.14511)|[mol](https://github.com/cyf-cuber/mol)|
-|2506.14582|[busting the paper ballot: voting meets adversarial machine learning](https://arxiv.org/abs/2506.14582)|[busting-the-ballot](https://github.com/votercenter/busting-the-ballot)|
-|2506.14596|[posegraf: geometric-reinforced adaptive fusion for monocular 3d human pose estimation](https://arxiv.org/abs/2506.14596)|[posegraf](https://github.com/icitylab/posegraf)|
-|2506.14605|[unsupervised imaging inverse problems with diffusion distribution matching](https://arxiv.org/abs/2506.14605)|[ddm4ip](https://github.com/inria-thoth/ddm4ip)|
-|2506.14629|[vistext-mosquito: a multimodal dataset and benchmark for ai-based mosquito breeding site detection and reasoning](https://arxiv.org/abs/2506.14629)|[vistext-mosquito](https://github.com/adnanul-islam-jisun/vistext-mosquito)|
-|2506.14642|[3dgs-ieval-15k: a large-scale image quality evaluation database for 3d gaussian-splatting](https://arxiv.org/abs/2506.14642)|[3dgs-ieval-15k](https://github.com/yukexing/3dgs-ieval-15k)|
-|2506.14765|[scaling-up the pretraining of the earth observation foundation model phileo to the majortom dataset](https://arxiv.org/abs/2506.14765)|[PhilEO-MajorTOM](https://github.com/ESA-PhiLab/PhilEO-MajorTOM)|
 
 
 ## Archives
