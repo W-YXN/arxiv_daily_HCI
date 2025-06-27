@@ -13,6 +13,8 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2506.20152|[loss-aware automatic selection of structured pruning criteria for deep neural network acceleration](https://arxiv.org/abs/2506.20152)|[laasp](https://github.com/ghimiredhikura/laasp)|
+|2506.20355|[practical insights on the effect of different encodings, ansätze and measurements in quantum and hybrid convolutional neural networks](https://arxiv.org/abs/2506.20355)|[QML-Satellite-Image-Classification](https://github.com/uriballo/QML-Satellite-Image-Classification)|
 |2506.05199|[grounding beyond detection: enhancing contextual understanding in embodied 3d grounding](https://arxiv.org/abs/2506.05199)|[deground](https://github.com/zyn213/deground)|
 |2506.09399|[improving out-of-distribution detection via dynamic covariance calibration](https://arxiv.org/abs/2506.09399)|[ooddcc](https://github.com/workerbcd/ooddcc)|
 |2506.12006|[crossmoda challenge: evolution of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation from 2021 to 2023](https://arxiv.org/abs/2506.12006)|[cmda2022.superpolymerization](https://github.com/fiy2w/cmda2022.superpolymerization)|
@@ -30,7 +32,6 @@ The main features include:
 |2506.16796|[realsr-r1: reinforcement learning for real-world image super-resolution with vision-language chain-of-thought](https://arxiv.org/abs/2506.16796)|[realsr-r1](https://github.com/junboooo/realsr-r1)|
 |2506.17101|[multi-label scene classification for autonomous vehicles: acquiring and accumulating knowledge from diverse datasets](https://arxiv.org/abs/2506.17101)|[kaa-cal](https://github.com/kelisbu/kaa-cal)|
 |2506.17220|[emergent temporal correspondences from video diffusion transformers](https://arxiv.org/abs/2506.17220)|[DiffTrack](https://github.com/cvlab-kaist/DiffTrack)|
-|2506.18575|[2d triangle splatting for direct differentiable mesh training](https://arxiv.org/abs/2506.18575)|[triangle-splatting](https://github.com/GaodeRender/triangle-splatting)|
 |2506.01444|[variance-based defense against blended backdoor attacks](https://arxiv.org/abs/2506.01444)|[BackdoorBench](https://github.com/Orange-OpenSource/BackdoorBench)|
 |2506.06561|[lamp-cap: personalized figure caption generation with multimodal figure profiles](https://arxiv.org/abs/2506.06561)|[lamp-cap](https://github.com/crowd-ai-lab/lamp-cap)|
 |2506.09965|[reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing](https://arxiv.org/abs/2506.09965)|[vilasr](https://github.com/antresearchnlp/vilasr)|
@@ -57,7 +58,6 @@ The main features include:
 |2506.16349|[watermarking autoregressive image generation](https://arxiv.org/abs/2506.16349)|[wmar](https://github.com/facebookresearch/wmar)|
 |2506.16353|[mambahash: visual state space deep hashing model for large-scale image retrieval](https://arxiv.org/abs/2506.16353)|[mambahash](https://github.com/shuaichaochao/mambahash)|
 |2506.16371|[agc-drive: a large-scale dataset for real-world aerial-ground collaboration in driving scenarios](https://arxiv.org/abs/2506.16371)|[agc-drive](https://github.com/percepx/agc-drive)|
-|2506.16398|[hyperpath: knowledge-guided hyperbolic semantic hierarchy modeling for wsi analysis](https://arxiv.org/abs/2506.16398)|[hyperpath](https://github.com/lambert-hpx/hyperpath)|
 |2506.16401|[trajscenellm: a multimodal perspective on semantic gps trajectory analysis](https://arxiv.org/abs/2506.16401)|[trajscenellm](https://github.com/februarysea/trajscenellm)|
 |2506.16504|[hunyuan3d 2.5: towards high-fidelity 3d assets generation with ultimate details](https://arxiv.org/abs/2506.16504)|[hunyuan3d-2](https://github.com/tencent/hunyuan3d-2)|
 |2506.16572|[diffo: single-step diffusion for image compression at ultra-low bitrates](https://arxiv.org/abs/2506.16572)|[diffo](https://github.com/freemasti/diffo)|
