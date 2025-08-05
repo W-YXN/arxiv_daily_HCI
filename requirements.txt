@@ -1,4 +1,4 @@
 pathlib>=1.0.1
 arxiv~=2.1.0
-semantic-scholar~=0.6.1
+semanticscholar
 requests~=2.32.0
